@@ -1,45 +1,397 @@
 {
- "generated": "2026-11-24T20:58:24.061468+00:00",
+ "generated": "2026-11-25T15:57:02.526749+00:00",
  "items": [
   {
-   "axe": "Marché & économie",
-   "title": "BMW présente le Concept 7 Protection, une Série 7 blindée hybride rechargeable de 612 ch qui privilégie la discrétion",
-   "source": "Passion & Car",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0ZaWUlaVGg0d180dTlweFBIQnBKQlBDYS10S09xTi1Pdi1CWnZ4SGpTa2JObFNRMlJDeGM4eVpYOVJFVlN2VGhzUk5zMV9aZG45SzVSNEM2ZFJVaUhGVVNfd19vWmxWYnZuRWQ2THRyNVJBNTlmZnhjMU4zZi1rMHF0aUhVa1FFRVBtdjJPQQ?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "Saison cyclonique : êtes-vous bien couverts en cas de sinistre ?",
-   "source": "Outre-mer La 1ère",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTTRNbGtXWXRmVGtYcFQ2NmtvMWJmaUdZODlsOGV3Y1NYSUFROUMxSWxkRnZROFd6NDlEeUFGWm5namliSlZia2NlejM4XzZoS2lKYUltWVZGa2prYlBUZm9KTXJHZzRFMGJ4UjVpWTJ3eFVlS19BS3lLaE1mXzZHcWxMVkpwT1lRdGdQOVplQ3dMVi1IOXgzaFV1Y1RRczFkcFpRa0xsT3Y3TDZVLW8wZTVR?oc=5",
-   "prio": "À suivre"
-  },
-  {
    "axe": "Digital & IA",
-   "title": "Intelligence artificielle et épargne : 37 % des Français ont déjà utilisé l'IA pour leurs placements financiers",
-   "source": "Ipsos",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzJJSTFJb05hV3VyQ1dnWEV3T0VmMlczWnhNMVE4dTVJOWh3LWszNDhmYWljZDFtZ2xtWWNMeTRoM3FfSVA4OTRFUmNzZTJlWlRvdVdFTFlLM2RPUVRmLWdBYWZ2VFlnemQxYXZlUXo5Rk5FTjVpRlhzQWZ2cU5LN1Q5WnNHX3pv?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Digital & IA",
-   "title": "Ségou : deuxième journée de sensibilisation sur la prescription rationnelle et la lutte contre la fraude",
-   "source": "Bamada.net",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbkpxakVXTklNQVl3Q3BKeEYwVXJkUGZFUDMzRVhFckRiMXFHZEZFRS1vUzBPZkpuaVB0SGh6TmtJdkROeXlUa3lIZDBnbXFMc2JKaVlBbXAtaFZmVXpQd05uX1NvdnpwT0FfY1NIRkVXNjZTVXRzdFJxV24zbm1HaXQ2UGk1ZnFBOHBkTVhiVHRSeDN5Wjg1aWxRN3ZFT3U2aXZUSUNUSG5HcGJTRzJqeVBjaGpOSU93eG1Mc0xR?oc=5",
+   "title": "Black Friday : les cybermenaces dopées à l'IA mettent les distributeurs sous pression",
+   "source": "Le Monde Informatique",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVktMdnIyd2hSTXNpRkM5SU1UU3FzWW5yQy1VaUJmUElsX25nUjhqNUlxaHh2cFVUTlhEYXdGTDVac3JYZDRYLVJDeXhWQm9CVXNUSW1Jb3EydWN4MDNXc2J1N1hrQjgxLWNZbnRHamhnVzBvSEVMZ2NGUDdMY2piUGZQNzNtT18xSmlMUkowNlEwdUhnd0xpdVRGcFhJV2IxSFItNTNUcWNodHpvUWJ1a0d5S0dPWkFiUkc5cTdZY1hYLUY4eGZJWmh4ZW5pdy1QS1dwSldQaWhrRE0?oc=5",
    "prio": "À lire"
   },
   {
    "axe": "Marché & économie",
-   "title": "Après une polémique sur les réseaux sociaux et une plainte, ce maire sarthois demande une protection fonctionnelle",
-   "source": "Ouest-France",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQZGJqWlUzZjJPZ3JTUXo1TWNIVTNoMEFadXZaQ2ZYd0ZCLXN6WWxsTk1MMTFyQy0xaHMydklYakQwWUtwS3pETkdYbjVwdTFzTTE2MTZHbWpCQ0dUZEJxWHZSLWRYODJLcUdSOGVFOG5rMVJwVGJtTHpxajlMdnpaVXV5dXlGZVgzdjNfWFpWWVdtSkVPMDFXVFloRkt3bXdnRmtYbjdRMFFscFRlSXA3RzkzSEJiZWwtUFVKY2h4Y0FqNjFFenFkXy1LamZ4TmxIcGdDQ2xOVEFUeXVRZmZKUDQ2SV9CcjRIc1pXZ3hjZWdwVUJCNmhqVDRJT2wzSXlsSDNiVE1UaWtQQ1VienhESHRCR3RHcE4yZENlQnBUTTNUdF9TdUtXS1NSS1ZZLTRvT2hN?oc=5",
+   "title": "Grands risques : les captives à la française à l’heure du soft market",
+   "source": "L'Argus de l'assurance",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOam5qbGszX2VhNUc1bEQ4VmgwcktOZTY0RTZ2b1VUUVBjQjFlQWpuUzEwb0xibXdSLTA5cl9zd1N2NnF4ckhtekJyLWxTbmtKekxuM2lYbHkwS2R2SWM1NUxBTTdtd3U5WHNlOVRaOTBCdGgxSnRuSWl0MExkTWp2bFBsU3pFaEtYNG41ZjZhV2o5N3NpSG5UbkdrTEZmSjdBLXhPSUdyOTZqN3E2Tks0UjF6NGdEWHBGQXFvT0ctZlVCTjFGZ2FhWDI2eUpMVWtmNC0zaldOUC1SVHhUUllqNjh0Wncxakgwek5UWTBndlNDeVRUQ0hhbTJfS2hxMmFzb1d1SA?oc=5",
    "prio": "À suivre"
+  },
+  {
+   "axe": "Concurrence",
+   "title": "28 postes à pourvoir chez AXA Maroc en assurance, finance, RH et informatique",
+   "source": "Dreamjob.ma",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ2FsTVliRUlZSFg0NVVzLThFbGhHMzZrZG9RRkhaWGtkWXBLaE9lQVotYncyNF9oMFN3S0xNMG9EV000RkotTDhJdFdDTnBOWTNoMXBFV3Btc29TWnlIVHQxYTNBZ3dmc0NCNnBFa05QZklKNDFuSE94dUoyNWw0MENBdDc0Xy1JZW1rN09rM3RDRjJQTjRwMkszM240VS1IRl9jb1pteUNIWVE?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Concurrence",
+   "title": "Axa bénéficie d'une demande de protection de plus en plus forte",
+   "source": "Investir Les Echos",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOTJER2E4Q3FhWVFzREhPZ0N1TWo0bFZWOURNOU1QbE5LUy0zb290TUs0XzNxVnplc01GeTh0TkwyeExGOHB5aUMzWjJFWno5NTNWTjBXRklyZlJDWlZBZkNLem9kbnFjUkpSSmFtN1N6QUdMM2ltMU5uVWVPY3pMRGUwNVFIcndXMnRoRUFMdmZENXpYaHQ0S2dBaFAzVHdMVVM3dlRKMGtMN05jY1pMZk1fUjZOeVpueEJvVVNaczgxRHdLcWxneXYwWHN2NVE?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Enerfip lance une assurance pour sécuriser les investissements dans la transition énergétique",
+   "source": "La Tribune de l'Assurance",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNLUdvRmtMampOOGRIUmh4aFpYMVRRRVdCUDN6ZldKb2tlT0tMTFVPVE10bGo4TG54TlJBTDF1d2JtUTFOd0VGQVdoYmVBMTVGcWpMU0RlWmlhMzIxRFFTYWRUT19aYzB4ZE5La2VjUk9meEJjcGg1Q00tNzNNaG1rTE1aX2R2UGxBQzhSYXE3bnpKNFl5eDU5X1AybGs5aG1IQVRZN3dXYk9tTEt0WXRqWFNlQVllc3dIRVpMMWlrOVZSaHE4bklYN0FHREFDeWNmUXNFbnBBa2FadFgyc1d5akg2Y1V4RXNpbmxZcFJOemdwY3N1SXc?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "Elon Musk fait appel du verdict de fraude lié au rachat de Twitter",
+   "source": "Le Revenu",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNam5paVVKaDIxbExORDVWamI2R3o0dFg1d2YzX0s4WUttRzlpTEktMzU3cFdGMmZUMVJHZ3Z1U1c0cU1YZUh5OXpPQkNUTnMyU1FyQjV4WWhILVdjLUxIWDJFbDlkbGxCNzZHVTc5RVpiN1BQX2NMZjZpMVQtN3JwRS1kZU5rVTcxQVpLS3JfZ2FPWEVKOVIxV3laY2I1dnFERlV6NXRwaFBJUmNVREUwbjN1TUlQbjBxLWxN?oc=5",
+   "prio": "À lire"
+  },
+  {
+   "axe": "Concurrence",
+   "title": "Comment préparer la grande transmission ?",
+   "source": "Investir Les Echos",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRzJCTTQ1dUVONld3SGdhZnU2R0pWdUxsYktMNXFPZFNZNmxkVmVTckxPbC1YTFNxNDBpZEhtVURsRVBSOFhmNGZZU0R4WnE5MEdQbE1mV1U5REtjNmEwY3piYUV5dVE5YjkwRjE3RkdkT2JRRWkwZDFYMGY1dkxZLTNidGh3bFNDaDRPSVBtbEFmU3hOa3lCOW8tTTlXRkJUMUc1YUU1Z181YTZqbVJ4bw?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Affinitaire : HDI Global lance une assurance pour sécuriser le capital investi par les épargnants dans des projets finançant la transition énergétique",
+   "source": "L'Argus de l'assurance",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPaDFVZ3dQcnZxdkM0Q05QWjVMck5udkg0OFpaYktwTTdTQ2U0a3BNa1AyNGFpLV9ONjVTcnd3QnljTTBXbmV2TGlydkFWbHhQME1odTVydzUyS2czb096WWJUQzliZkVfbFhYMWV5dzBrU0RYTkdianN5MHJtSjRvV1lnT2NUSmF5LU9OUnlqSWNlRGgwTm81NlkyNVZYQ0NtQWNqek8zMk92UW1nY3MwUF9QenRMN01wUE85bHlBd2FwSXgxTDY1QkVyQVQ2UWVfdV9iOXhORkxCODZhamNuMVlOR2FlOGZ3dUZJcm02WmlyWFQwa2JhSlgwSmFKaHdDLUltYm41VjFtNnFJVVIweHRSdzNYZ2gyR1JGc0kzSkd6WkxwS2Q5azd6Z01mZkRzUWpQbERjckJzbHE4T1REbFBacTFYLTl6WXNPeWUwdHpTVW0zeDRURFNJaE84VjA5SEZqSHJKM1V6bklGcGNzZA?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Concurrence",
+   "title": "Pascal Demurger (Maif) et Thomas Buberl (Axa) dans le top 5 des dirigeants les plus influents de France, selon un baromètre",
+   "source": "L'Argus de l'assurance",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQb1lnbU81Tk1fQmRfdVZFM1FZWnRLM0NLUTNzWElOVDg3TGt4N0dhQ0pSeVpaaXg1N19zNXk0UGdMUWVVYzV5R3ItU2hOTnpUbmQ3aUtMQ1BRYkhmM2drR2l6dEdhS3piNWs1MXF1eTNlaVYxMjYxaS1jdUw3WEpFcDVpOGNpR3N0TUhuTHhKX0YxT3UzRFZVUXV1eTZmRUlrMllLUk1USkFrTHp1RFJyLUY1WU9rZXNfY3NEZVdsY2QyNHpZaUVXNl9RYU0zNWJDei14ak0wVzEwaWtRQnp4SmE2RVh2TGxIMzJ6X1YxVGlYZXNrLU93b0h1REQwamo0RERqN2tpSDJpbFI3M3EwSl9UMmRVa3hWdkdmaWhvNDhMWDA?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "Sandrine Racouchot (Abeille Assurances) : « L’IA ne nous aide pas à desserrer la contrainte budgétaire »",
+   "source": "ITforBusiness.fr",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUW5uQ0lkZFJmS21hcjdyMm9xd0FrT1VUQU5yRnlPX1pUNmVDeXdfRTB4dEJMVkdCLUMxa0Y4ZGpQMVVKVXBxYWpueFJyV2ZDV1ZUOEZtVmZxbG55MEV1QjRoVGFlS0VmRHhVaHpGNXo5VkpFM19TR2xyWEFXRjRXSGY4YWxlZ0JYaE9EeWJyNjg?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Maison fissurée : une indemnité sécheresse de plus de 10 000 € depuis juillet 2015 ferme l'aide de l'État",
+   "source": "Selectra",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUxwZ0xuVUdNTGRBcDlZSWItWGk3YkJMakxlWVRJdlJfamJyeWRfVWJUU09iOUlzTHB5dm1mS1doQ292eFRsd252VHhrRUM4QlYyTzVVTGJvVngzVGdIalJ3SEo5UlhUNGF4aldqUXdFVzYzeXN4RmZsZjZwd2ExQVc2a0tMZXBDZjVlNkpYR0F3QzlReG5GRA?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "Allemagne : Berlin presse l'industrie d'accélérer dans l'intelligence artificielle",
+   "source": "Le Revenu",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTNZdGY4c1pNbGd1SS1EdjJaRHVjMGdVeGVMd2UzLXFkV1dGYVo3SUtkcTQ1MWVKcTZsdlJ0NC1ySk1peDNKQUN3TVVodnREOExGOXVvMWpnREFrYW5kZUJEdkpBR0xULUVSUGh3S3ZDT1pCTzNWZnU1TkhneUlfRFppeEtQTUZKdUZuS05VM1hsN0pmNUFQZV9xRjFqeGQwYnFHZm1ib2xETU83NEUxUmdWTFhwVHdnZGZHNlhET19CR2tpTjZrTjZNMXhrMzVPbGtoOGtCdW1lWUQ5?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Assurance auto 2026 : les nouveautés pour payer moins cher",
+   "source": "www.infos-nantes.fr",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aWURtR2ZfSWI4YTB1Z3JxYlhGaGt2dkE1c09LUG9Pd1ZhWlozZk1fQTFIa2QyZFl4ZlM5di0zZnF4RndBcXMwaHh1a1FMbEtnamt1bnVXU2lFdl9rR3BXZUx4ZjBGRzRTM3c?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Alcool au volant : 3 conducteurs contrôlés sur 100 sont positifs, la France dépiste 22 % de moins qu'il y a dix ans",
+   "source": "JeChange",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGM5UjQzOXVVVXRsU2Zfb1ljcjl5SEZpR3VubGw4ZjFsVHg3aUZaSnk2V1I1OWFKTUdkT0taSWw2WDA1b25lTGpNaXZKbFRlLTR1U3hLd21JQlR4aHRYSnB2Y043bWd2SS05X1BhTXNTN2dFVTBXakVpWEFsY2tVWHk3cXJpcWZRQVBGeUtiOGJ3bDdHY3lnNU9yS2UxUTE3ZGxEaXAzYkE2dWJoOEJ1WFdvNVBDUkU4QkFJVkxYbkxwdw?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Citigroup pourrait bientôt renouer avec le marché vénézuélien",
+   "source": "Le Revenu",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNlFWN0R1Z1o1Y1g2V0FHMWhOcnVBa3YwWVZWZURxd0hBQ25QT3UxY1UwbUs3ajJwdFhILVR1TDR3WFNKZTYzcE1KR0JhYlk4WUNDWC1FLU91VThQNjZvdmprSHl0MUgtZmgzNlNrWXFpNENvbGhhWF9PUktFMkJ1bG1tSkNSRDZqdDlsOXd4S0xPMnU1UlFRTFNvU1VLdUpfVlZuMmpITnhZQWhLSS16bUhKZjlwUWVEVXhYRA?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Réglementation",
+   "title": "Le ministère de l'Intérieur répond au cas d'une sage-femme de 13 ans souhaitant obtenir une augmentation de salaire",
+   "source": "Laodong.vn",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXM0MjlwSjNVZDB6VW5qUTZyak1VVmY4YVNrZXV3VVZrU3RtWmNob1JnaTA3Uy12RTdiTHNUMWRsNWhIU1V3RVZrYU9fUnNWenNvbzljTk9QOUp2eTRDNlJRb05QSE1NYVdUYXJzc0Z3alZYdGp1c1FOMS1iTm1QcWNEd2lnaVpjVUZqU2w3V09JdkZ3LUNMMF91VFVlWDFScTZCNkxTb2xqX3daTmx1SHlB?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Accident du travail : le filet de protection cède, un ouvrier de 55 ans chute de 5 mètres dans le vide au sud de Toulouse",
+   "source": "ladepeche.fr",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdm43aVR0OWZoa0ZtbzVISTlBSHdqWW9hYlo3T3JfUlQ5M3VOUllETFU0enhpRWxjckQxTDBYRGtuMGVkRHhsVFRaeU1BMHZveHlscmhGMUlvR3Q2V3p0Ny1BUTZibzQ5aWZlblpUdUFfU1JRTE1qLVRiOXFFSmp1ejJGdXpJZmtsb2xaYlY4UFNzVy15RE1SaC11Z0tYNVh1cjFHVU96NzFsblhyeExENnBpdVQxUjNxZ0MyXzVhZXZCT3BBd015MDhkUXdvMkJ3aGI1VmNPU3ZCODVVU0NJQkY4WmREQTdfeklxZ21qNzh5ZVhUMFhYand0OA?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Réglementation",
+   "title": "Le montant de l'assurance-vie que l'entreprise verse à ses employés peut être déduit de 10% d'impôt",
+   "source": "Laodong.vn",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaGNIckRNd2U4anA0ck5rOG5qbnZ3ZmM3bUNHOEJTMWQzb3B6bk9CZGhLVF9TWU1JS1ZWZDRHZmVCY0hoNGQwQ2xlSkZTYjJnaUl5QlZfMkMwb1E0bDZ3NVFqRWsxS09Bdzh2RWlRcVM2TXNJTkx3cUg0M2N4b2p1ZFpFSzBNaEwwSXQzdmNHM1E1QWZhWXMyWktPdnI3NnBjdnlnU0F6ejIwV2lOTENIbWFOa01HU25nQThrbVA2QmRGWWk4UXc?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Classement des mutuelles 2026 : le top 30",
+   "source": "L'Argus de l'assurance",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFJvbFBKeVVmcm53WTVGaTQycVhJdFhOZ1RwTkdOanRXQ0JjdmFJcEkyU3pkaTJvMldVNW9ZblFreTQ2NkctNXdkSjRUNnNBUU15VzBVQWYteUUzLTQ2WHZ4d3AwS0s2MVpzXzNwQkNqbXFmMUZRTFkyTE12QzYwQTRNQTBtT3pfWDZvMWVNMXRMeXRiSGtjX0FGUjZrT1ZxejhSaE91TE9hUFphbzF0MjlZa2FFdw?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Top 10 Netflix France de la semaine : La Comtesse de Monte-Cristo 1re des séries, Protection (très) rapprochée 1er des films",
+   "source": "JeChange",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY0V0bTg1d19sRlk2OUFNZHZBV1BkazR6M1hlWUFpcGRQcUVCdlZvS1Foaml3MnNYOVJEMmNXTEc3QkJYWGpEMDNRZXhQOXlIeVhRR1JNT3JiNmRzZWwzcm1WX3QwdDdxSG9jU1pCWDVJUzNmcnlOUE1kS3dlUmxwV1JMUlotZ3gxdEVMLTNZOGxoSERzak5KcEZCS2JCdzJfeUxVcUVxT1hQVXBJTWdJRldoWGdDSVpsN2lFQWd1Rk1lSTdyel9Tc0E0aXpBZmptLUpmT3dyYTQ1TWg0SnFnRDY5YVc?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Réglementation",
+   "title": "Mutuelles : La MPJ, spécialisée dans la couverture des avocats et huissiers de justice, quitte AG2R La Mondiale",
+   "source": "L'Argus de l'assurance",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQa2ZQZ2R1eTF4R0lYXzdRaUZYN3B3bVc4QlV5Y3E4bVBUUFhfVDROMjJQSXMwc3RFVzg5X1EwcDFYZm9WQTRYOXZLLThVcGFsMjRGbFdMM1VQc2VVaHpiUDl3QTNzMmYyUUdoMEdmZnRwbjc1MFlHaUxXZ05iZ1d5R3h4TUlwZ25mLVZQREVZUUozOWwyaUFLdXB2a3B3RlFuWmhhbVhXRHUxVFctNTl6X3dzRlhZbU1ObUZLQmpYWHhiQ0F6cDdfR0E3TUFYb0pJRFdRUGZ2NGhFX1R4MFZXME1sYXpCNjFKZnhRbmxhRWFJa2hiVFd5emRnZjQ4TWdzZHFxUzV3SzQ3bTFvS3lJOUJVbHFJV29SSHRpdGhPZXAzdw?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Concurrence",
+   "title": "Association Groupama Prévention",
+   "source": "Groupama",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWTFRNGhoSkZZdlVHWjdZdHNYbk15bURVcjM5b09NOW9JV0xRcHJtbDRYY01wYXBTTzJQc3d6NjE1R2hqUS1RZWhjMG5xQlI1OWhibUIzdHJ1anJ0bnlyQjExMUMxc1hYOXBIZEMyZDJwblhqdjhJVzVqeUp6ak90aEtTempMWEJhR0pEbmxhNzJaYTAzdnBMWEZCQlpEWFY4Uy1rc0RJTkJfeXBvY1ljNFl6NE4yRUh6aW5JUk5pQzBETG0yUmJFNQ?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Concurrence",
+   "title": "Matmut crée son réassureur au Luxembourg",
+   "source": "Paperjam News",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTmtLMzBHNjJESEtRU09DUUV2MFQ5NVdaSmZEZjFjejRwaDBIb1JhT2lvT1BmeEpFSUpvNGVyS1F1amo5aGxvUmV0OU5sZjlnNWZhTTVXX01ycjNPcjh1OExmWHZOSTE3Qzl5eVFfakUxcmx6QTdz?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "IA à haut risque : le formulaire que banques, assureurs et services publics devront signer est sur la table",
+   "source": "JDN",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVkFXX2ozZWIzdmxNLUs0OXQ2ZGFhWFl0VlNCQUhkM2hGMW1pbGFyaGxURWFsVUpfZ3owWWJKOTd3Z3Zza0tuX3F2YUFBSWFzZ3lNS0hLRWxxdXFFZVU5aTZMLXNtRGx4QnUtN2NLUENzQWYzQ3E3VFhoSFlOV080Nm91SENqSnZNZnNSR0ZGemhEZkNtWUJWZVZJWkZaTktzdmF1MjBjajBGWnc4anhSdXA2NEtUeTJiLWFvNm1Za3ZsNFlkYlJkeDZya3pMS3VIdHFKLUdFekRWelg5dHNQcnhrRkNVNXQxQllhaUlLanZoSTllTl9OR2ZMY1E?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Concurrence",
+   "title": "Matmut aussi lance sa filiale de réassurance",
+   "source": "L'Agefi",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU1gtMXlyU0prMDdOakhJTUxxRGpGa0FZdWkyYXd1cU1PSE9ER09CNldzeG1MeWE5STFFX0hnLVhjUXNxT0hMWGI2d3hMRHg4Vkw5MzM1VG5GTV9aM3pfRGZ6TFhVb05Za0dwUmVYak9WLXd4MWkyMnFfS0ZrRlRYNGpCTjEzczVTX3ZPbER5aUc?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "La menace croissante des cyberattaques dopées par l’intelligence artificielle (IA) pèse sur les distributeurs avant le Black Friday, dont beaucoup ne sont pas assurés",
+   "source": "Zonebourse",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQnk2NjV3MHVJejlLWW9oWlhHbV9pSHhIakMyYWx6UkM4cGZWVmc3Y21leE95SHlxRDliZWV0SmtBMk1JRDJFWUVWY3A3OElhZ09sRzJoNWpsN2o5U25KUDEtQm9ibGlFV2RZdl9XNml3eEhPcWNBQzVwQXY3cWlqMUpXYkhnakk5em9LdXZrUTJpXzBSOXlfSVNvNVludWl2TXZ1UXFMSnlwRU1GMC0yVF92cXQ1M3d3NzlHczhDdHU5cUp0cHRwQ3lJV3dqY2o4cWR5TGdrcE53UU1QMzVYdzRUWGdEbXF5ZWlDQm5Baw?oc=5",
+   "prio": "À lire"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Le marché mondial de l’assurance reste résilient malgré la montée des risques",
+   "source": "Atlas Magazine",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMjRmY1RJYU9oS3UwWHNaWWtzbjVhZmhHY3RUTDFHUDJOYXgzUjBOdWh1OVNHX09WNkFQcEtyeDBYSW9WaldzWHpYREVWbGh2MU4wbFRWVUYxR0tuUEVtcERQUEZLemlnMzNsbHBvaGlQU1djX3BERVZQZm1RUmh4SFBWb3dJdVItVUxRQllTbno5RDdFeEt3LS02LUttcFdVLTJmNFAwXzRQWVRKSi1BQmpPNjA?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "Cyberattaque contre le réseau de la CIA : un coût estimé à 2,3 milliards de dollars",
+   "source": "Economie Matin",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zZ0c4MllfeGVqSW40OGdpOGNQYmxpTEJVT3ZCV3ROdC1la1BaRnN3RTM2VWttUW9VUC05Wkc1NmdsdTFXQU9LS1A2SG1qOHp0UTRuUWh0aTNTMTUxVWw1QjJ3Nkx1NE1sYXBPVHhtSVFrXzRpaXR0a09qRWF2Zw?oc=5",
+   "prio": "À lire"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "Quand l’actuariat en assurance se met à l’intelligence artificielle générative",
+   "source": "L'Argus de l'assurance",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNTBJUnA1ZEl5cTdxUW1tT003aXB6QVBZczJfeklPVFF2RmxfX0dSVkdIbnQwVnpBUWozZDZOVGdkZjB1UHJlMUdDVVMwVzlXMXFUWFMzTzk4My1VTmM4M3FIS0gyTDNGajVhOGNkUENILXNsa2xtYlYzY0h5ZkNoWVFnaGpXYWNETnpwcTdpTE9ZUERNTTFzbTVDSy1oUnR3WmZVN3VwRWF6d29JS2VtcDZhQWRwZ0ZLaWJ1TDJGYzU1TlpMRWdSUS1IUC1WcVYxNjZXREFsTlNUUGcxLVN5LUNFOVJzaTNzX1hhdTlMZUFxLThxdmtMYWNvRk5uSkh5ZWhF?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Mutuelle santé dans la fonction publique hospitalière : les négociations bloquées",
+   "source": "MoneyVox",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLTVGcEM3VVdHMzJlLVdNaXRTUXBuQlJ4V21MLTdERkZhZTFIUzU5YUFyUHE5TllLWHZjdG1RNWpxZy0yN2FBT1FJZWxtRnZISnBfWkgteDFmakNQd0pOZzRpWnRNQ0VQODhvZG9JaWQtQTc2TU5ibVo1ZmRZbEpMX3F5OVBZaGFZYzVON0ZESkljbEVyRlozWVpvZEVKeUk0d0tjbUZwSHZhWmI4eWlKclRtNzlFQXZmdnpxb0E4ZXp1MU1RaEVGb2E4SQ?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Contrat collectif de prévoyance obligatoire dans la FPT : publication de deux décrets",
+   "source": "Éditions WEKA",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc2FXcXRtNEJtSU40ckdSNmhtSmRwejhCRWdOWlhuSzRZQU9FVzc5clhKSlhVcDFETm05bGZJQnZpT3pjNU1mLTdvOW9TMmlFdEhfZ1BWbGxIaUI5dXUyb2tGQUFSM0ZPOXZ5VHN1elp3Z2Npd1ZYekdlVzhwSTJhWkREamNDODNGdkg4NVNnbzlzMkoxMXh1ckJfcVBVMm1qcEhqQkZkTjNwenFLTWJlYnJGUkJNcy1ocVcwNVlrT3Q3REJaLWhEa3Q1UXJLMGo0dlI1NGdiUXk2aWgyTmJxMGN3SFAtTDVkOWd3bnA4SQ?oc=5",
+   "prio": "À lire"
+  },
+  {
+   "axe": "Concurrence",
+   "title": "Élections professionnelles, le statu quo est de mise chez Axa France",
+   "source": "L'Argus de l'assurance",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVDgybEtIekVIZVRSR3YwX2xIb1R0NGdHNC1UUG82Y3k3Wi00VFhFbElKcGZsLVJEWlk4QkdlLXVhNnR6UzMtVWJSdmhwYmcyS2VZc0Z5U0loMjdEQmVFNl9CbUJCQTM4amZpRWI0U0U1TTU1QlZDVVY0OU9FUU5MSXZwQmdXYThxRTZ0X21YY0dzT1c1WWFVWm1jc0NDTGhJZzdMcWxYNzdMU3dPRG96U2pLN2lIcjB5QV9WU1JPcTlVeW9aUm85WjVWRmFjZ0Ffcmdnc1lWNnBpMHV1VGt6SnZyR19HU0Q4RmpiWWlld2U?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Concurrence",
+   "title": "Macif : la Cnil inflige 5 millions d’euros d’amende",
+   "source": "Meilleurtaux",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOUZ6OXNXRTh6VXVIeG5xbmUtMnVYTWVuSDQ0WmIzOUQ2VVRNSUxSLTJPd2pnbTJyMmZRX2VRMkhQRnlZSER6UHNFSlBfMllsekcxaWxOQ0oyQlgwX2RqQTZiLXdLdlZTOW5JLTZNZEMySERwMjZpRDRZZWhkaDI5NXZvS3FyZ3lQUjNNanF1U19JNFN2VWpUQ3lxRVNqVlhzWW1KdzRwUEY3ZXhka1F6YzAwdXNmR0tUZG1vVE9wRHNXVHAyV0sxa2xUQXNQZ2NPamN1UGVOeGNGdlNsSlBv?oc=5",
+   "prio": "À lire"
+  },
+  {
+   "axe": "Concurrence",
+   "title": "Flashback : Malakoff Humanis, Émeutes, Macif au cœur de l’actualité",
+   "source": "News Assurances Pro",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUV9FUUt0SlFkcGk0UjBvQ2FJMDhUUXhIZDV6YnFHVHpMTzFDT0JqNXd5WDY3ZDVYN2tnazVzanY4V1FscUd3NnFvREN4R1ktbkNiME54d1owTmZHc05VS3hRdlhieHM0NVQ4UFU1WnlYaXJfWU9Uc0pZajNsRmgwVEt5bWFDNS1HMnhGRTVyZWwtak00aUM3RnNFZGphY2VJQ3F2OThuaGgzQnRvZnV0elVJZw?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Réglementation",
+   "title": "Suppression de la limite de 12 mois lors de l'autorisation de percevoir une pension de retraite",
+   "source": "Laodong.vn",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1AyRXRDLXpnSG9qRUNqWEFMb1Q3cDd4akVSaHRJcGZWd0RPLWhvdDFoWGZYTlBfemtPNHhqbjEzX2l5MUxra2NDeG5TNkFZa2ZpcGp1c19COGpxR0txemZjQXl1Yi1xaXFGUXJaYmdHR25RT09GbkhpZHJNT00xYlZ0Mi16V2FlVG9ac1ljd0ZkSzN2?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Marchés asiatiques : l’euphorie retombe et les valeurs des semi-conducteurs dévissent",
+   "source": "Le Revenu",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVNwdlE4MkdTRmRuX0pnd1FpVkl6aTF0aGNneDJqa0dSRjRnYm05TmlKNmpRR3JJZDVZV1BmM09aRzh3SnVmNjhpdTlzSHpncXBiaEVwMkphU3ZlSjV6dGJZZWpCdDFhSnJSVm9fLW9mQXN2Mll1eFkxVU5WQkJKUXg0UVdtZ1RqLWZqVHFmM05qU3Z0d1k4Yld1Z3lyQUdZX2h5LTV4aUdWcFppUWdFbks1RVZkc2k2MTNfYVF5SkpJZFVCTHRuMkVtMTdSTVhGeFE?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Loi Lemoine et assurance de prêt : comment alléger votre crédit immobilier ?",
+   "source": "Ouest-France",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPT3ZITGs3Qk9pYXU4M2lNRGJjajVxczdUTDNxQTF4Znc3OGFMYWRtN0dPWGl1STFHbkZoRVlBVV9ncE9mcUVSX3FGbTYzVnNHeHB6ekFIMXpxSmVRRkQ1cU1hWi1ia2hpVWh2SUhWTE53ZmlndGV6R2NQR3V0MmtuMV9fRGxtdVVXYWJRNlZOVnhGOXhfQmtaUjBteEFDaDdnMUx4UmhDRm14cXJBU3BUMmNiYXBpY3NlcFVpOGVoajlhbkpOOEpsWlAxLUNQMGdXQVp5eDFkOGF6S09YREl2M0dFdS1FZi1CaThUdE5UMUxGOTR4SDBV?oc=5",
+   "prio": "À lire"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "France : l'indice de confiance des consommateurs conforme aux attentes",
+   "source": "Bourse Direct",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQX1RLd3hXWVFWMWlyTm82eWNXVkU5LU52VElVSlBUSHVNZ2Q2dzBnV2NCZVEyUlprOXRUdWFfX1NrSHBxSllVNjdHWHd4TVViVGNZSElVSzUxWG02UmVkSVhBWDI1dHlaS2s0TV92YlJaLXFyRVZ5cVd6X3ZZUWdCLXg1V3U3UG84WF9VYnVPNTRSTGhUdTlheXBrZnVKdlBKZGc4a1R4MVFZV2pkOUFXR09xMFhldXNlMXhnSlhGd2ZxZnRvUmh1ZEhTZl9PbDFfZzNWeUlNT2Z2U21oX3k3bDduTVBfSndsbjE5U0tGOXBQR0pjZ3JTakhYSFVNS2QwYnd3cWVrUlhUcW9YdWxhLWxhN1U0LUVGY1poV0l0Z2N6cmtZX2ZaSHhKU1lxRm0zZWc?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Après la mutuelle, cette ville des Ardennes propose une assurance habitation communale",
+   "source": "L'Ardennais",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZEFaSDB2MWJnb0VqUmRHeHcweC1Ud0Y1S0lfM3FTNTB0Q0o5MU04MGFKNXBhUkdpY1ZDbWhkZUtFWUlzZWZ1VklkOFJfeUJEc0owMWduaUY4cHQ1Q2c0MDlfZzY5Y0J3REdkUkFyQ1UtNmwyMXZ2LTdUbEdMeEtFNk81czFfd1REaW9YRm9SSERXRWoxbUNNc2JWbldDUktGR2RlVWNpYnh2VjB4RnJ2MEZIWlRNR3ZTUTdJWGhIRHpxU2tpLXBadw?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Bourso Prévoyance en fait toujours plus pour vous et vos proches",
+   "source": "Boursorama",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaTFGUVgyWHFOUDRyUWZTTlgwYnRDNU5HVTFUUjMwN3VjRDhRbU1HLXgtZjhfemVGRkZ0VmVpdzFTZ0FfcDFpM0Y1MXZ5MmtyRWt5MnoxYzRxZGhtaUJ6RzBaaVNSdkV5TWNHbV9PczUzRjEyZFgySk51bzRmNkZDWlpZRVhXeWcxQlJXOXdCNGYzSXVGZVFudkxOenJJaW1BakZXRlBYeElOUG8yd1hVcnNDWVoxUEdib2VkX05MSzBFbFlDeHhOM3FNd3RIam81bHA5YWt1VkJPdVFiT0YzRm1YN2FhN3U1?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Immobilier de luxe en Afrique : un marché en pleine montée en gamme",
+   "source": "Le Revenu",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdm5iU0pVLThSMVdfSlpxXzZRYXZySTNoZ2dlZTY3RWxLTk1vZzJDVS1nb3RmaThQWTY3X21Qel9aWnJxX1hVbDFydzlrYU41YUpUU1V0STJ4RmxyQ0NLWXBzWThKYWlSREZvYXNudkpkbXI3ZTZPZmVpYXhCeXJrV2xHQ1FpaEtFcmxhdFlWLS11bTh2SXEyVThpeXl1MVU0Q2Q2UFNSZGlaNHhQMFVwdjcyWjNXLVpvMDB0ZzN2UU5kZEttclJPdw?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "Ce n’est pas une arnaque : 46 millions de Français vont recevoir un e-mail important de l’Assurance maladie",
+   "source": "Presse-citron",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN2RScUpMRnB1TWhjM0tmOWpuTVhYa1dlZGRmN3NIMXdZQmhXbUhMd1VfbUJ4UmV4X0wwOFRkZzZURVkzNGlDeWdNa2NCaEJ0X1JRMGhlamdCQk9IcVBTZGZFdTFrX2haN3ZycGwwRlpCamtLWmVtWDdHVHhObEJiQV96QVJ4Tm9hRTRPQUlOZ1E5NTc1WGxVOXRpVnA2cVk1ZzBUTWdZMTRZWnpzbHY4Q0h0Zk1tNS1wUXBtUWE3Y3RCdVNKelJRNkJnbkEzR0k?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Alpes-Maritimes et Var en vigilance orange : en 2015, 9 des 20 morts s'étaient noyés dans un parking souterrain",
+   "source": "JeChange",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnQxNGdyVDZaSGg0c3JKYVp5bGxKR1NydVFpYUVxc3NrUnlaVHpiaVRuSjRCR2dHTGxja1pxSnFPQzBEeHpLWmFJU0JQQUJCSXdWdlA0TUIyTzVxUUNYNXpTakhwVzlCcjUtWDZwRkU1UWNTS2JQc3RDdUxOTEp3MWRYakRsVWJfSzVkWW1NQkRhSlE5bzB3dFMxMkYtU3AyMGtQVU1wZVlndGtTUnA4THRxZkpmNDJEWGRR?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "Black Friday : 1 site sur 3 a affiché une fausse remise l'an dernier, le prix à vérifier avant de payer",
+   "source": "JeChange",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQekdEVXBGaEdYb082TDNvZXFCQVFndzExT2tpaldUZTN0eE9RaDZMcmhLXzBycUdsckZmaUJNU3RaOXAtb0hLZzh1UnpFa3ZFUnpCaGlpX2ZDU25IdHdxQjAwQnQzaGxETl9tSlJ5cmFsOFp5b0lOeW1RRXhJb25rYU10cFJRQ1RkazBtQ3RkUlJwMHpLajIwV2JDNzZNYjA0RGNnbG5VRkVaRWlz?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Assurance inondation maison : que faire en cas de sinistre dans le Var le 25 novembre ?",
+   "source": "Reda KOHEN",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnZ5bExQU0FvMlR4cl9FT01ZMFI5TnpNSUY4MFhaSU9OWHk2S3Z6QVUxc013dUlrbDA0UDZFNndPMTFicm1PTE1Qa3Vkckh0MUFaRHdXbW9RMERNckctQ3RBZDE2WnYzNVFjZThMQzAzVHJ3M25qRlFHZFBNMnpNdFhNT3Zqdl81OTJKTw?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Assurance auto : les jeunes surestiment leur couverture",
+   "source": "LeLynx.fr",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GMS1lRjF1Ylc1TkJJaGJkN0xRclhrMGxXaXF3TllMY1F1OUVYNFd1MnN5Mm9tWDdZaWZHZHNXNlhkbmJhaERuMVpQQTg0blQtdlZYLWdQV1FhNnlkN0laQ1ZHa3lpM01aR2VQWW02NWZ4ZEE0aUFSdWZoNE12dw?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Réglementation",
+   "title": "Les actes de médecine esthétique limités pour les dermatologues : pourquoi le décret provoque-t-il un tollé dans la profession",
+   "source": "ladepeche.fr",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSzFUVURLTU1lQldiTVpOVFAzbk9SZGhKa1lTaUVxRDc3U1N5Q3BwTUlHRVlWWEdBMEs4cE5rSGVpbzRWLWJWYk05SlN5TmhKTGFaYTdSN0tuVlV6UU5Xb0k3V2hzbnVEYnpKdWVCdXVnUnJrWlB1ZjRLSzlLMk5wV0VDYUZiT2RTWFJhWVVzMFhoazlpLVhYY3BBay1UckNfVDJmTDRCZzFzSUNRRHh5Nl9RNkVjMHNzYmxTYmcyc0hvTDNfZ25zeUFqSENIVUNxYzBXMjlIU2tJY1FXYVlwTWNJNXhsRjNzdTNNQXQ2ZEtKZTNWMWJlNnRIY0RVR05icnFn?oc=5",
+   "prio": "À lire"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Parking P5 de l'aéroport de Lyon, avis, tarifs et navette",
+   "source": "Air Info",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ENHZiRERCY2IzeFVnMmZtZnVYSnRnVFpTQzBYZ0ZRNXg0SmNEU2Vza2lnc0FmVTctLUxHbTVBZnNwd2g4Z0cwVm55aXUyMGtBLUJNRDBIS0E4dWtVQ2U2V2ZlR1NxREtsMU9sQ3RR?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Pluie verglaçante en Moselle et en Alsace : déchéance, intérêts et résiliation, ce que le droit local de l'assurance change",
+   "source": "Reda KOHEN",
+   "date": "2026-11-24",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUEEwTmtOaXlnLW5vSGJGTnpKV1ZHS19UNERTcTJmYmw3bWdpUUZwNF9LcEg0bU1OenZzY29qQTF6OUk1SWRNVWFDRzZ0SnZDcGtwYVZuQ0k3X1E1cjVsWk9CNVZiV25tWG5EUnpqdFluVmNZXzJyZ25xM0NiVDNaMVhGdk5mX0VlcWlpMjdvQ0ZjM0wxVVJwVW5ILXI0ZnE5U1Z0eHY4NGo5bnR5U0JNOXpPUVdTcklITGdnalFB?oc=5",
+   "prio": "À lire"
   },
   {
    "axe": "Réglementation",
@@ -48,14 +400,6 @@
    "date": "2026-11-24",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiRWRLa0xXb0FRc1N1Rno0NTdVOGJyUHlWU0V0YlRDNkxSdmY0cVVhc1ZiRE5uM3R3cHBUVmhUd0lRX251ZkxjRHJyQ3QxZlY0bXI2akttVV9SQnhyMVZNNWh6TnBVWUt4RnRNdEM2TFR1VWcwRkE?oc=5",
    "prio": "À lire"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "SCPI européennes en Assurance Vie : qui perçoit le crédit d'impôt ? Généralement les assureurs, Garance le reverse aux épargnants",
-   "source": "FranceTransactions.com",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGlab3ozZ2VrcFg4WmRUUUU5RXd1TUNiQlZFWnpXUVBiaEdCNU91TDB6ZTlXNmtTZnNxNUdPWVFfYU5WRlB0bTNWWWlRek12TTZCeUpfaThHdVZDeFd4ZXA4alo4c0JfUnlsQnY4Q2dWbHFGVGJZTlBMdFN3QkxYUmZ2UmZhcXFVYlM4UldXOU5PbjZzRk9yaVVRbVgzcUU5ajFkZw?oc=5",
-   "prio": "À suivre"
   },
   {
    "axe": "Réglementation",
@@ -67,18 +411,10 @@
   },
   {
    "axe": "Digital & IA",
-   "title": "Le Jury des Assurés récompense les services de Solly Azar",
-   "source": "Radio Actu",
+   "title": "Des outils pour appuyer la gestion des réclamations par les experts en sinistre",
+   "source": "Portail de l’assurance",
    "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNzhOMHh0U25Qb3dmb3JHclc4S3RDanl0Qml1V2lIQkp1TnlhVlFkaGN5ZFpwYVdZa0FBbVpIcHZlVEx4eHJKN3QwM2QxNXJOMWFCdHhYRUc5bXBNQmZOMkxUNmxzaHUzMGs0Zl85OWx6eXhpYU1ZTXkycUVXSXVhaF8zLXZaUm1FdFFJcg?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Digital & IA",
-   "title": "Applied Systems acquiert Tailwind pour automatiser le traitement des documents d’assurance par l’IA",
-   "source": "Unite.AI",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPamo0THpOYzg2dnJKRWRSSlZjZ0Z4TWZndngtSEVsbHJRUFcwZGh5YWdvOHlGd0w2Vzc2LVJyYjlBMFhCLVBId1pLc0hheUJoUXVsZkNERk1CMmtIaF93OXZMVi1ycFFueFN6MFMzZDdGZ2k2TU1tUktoU3JZcmlpNGZvWnBsNW94Q0d4cDlOLU1KbnVQejVIUVlGNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWUZ0R05KQlpyNHZmd3l4V0ZoOEFycU5hR0V2cUd1R2g4Y212WXhUWDVDVXp5aFdKRE45RF8wc2MyUXdBbGdUX1dEMVRWMFFaeXZEeHRVSHhRblZEX3dVVURwOGg2cnFVMUV0MWxiZ0RoV2Q4bm4xeV82QWo0NG40UXZ4bENoR1FkTE1tWWV0MFJmUnlNN3J5b0c1RzBtVktfMlhSQmRfUU5xcVJ2LXotalI5SldyNlk0?oc=5",
    "prio": "À suivre"
   },
   {
@@ -91,10 +427,10 @@
   },
   {
    "axe": "Marché & économie",
-   "title": "« Un bon petit soldat » : Stéphane Brizé sur le front",
-   "source": "Les Echos",
+   "title": "Bercy actualise son guide des marchés publics d’assurance",
+   "source": "Éditions WEKA",
    "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFBTT0pHU2JmaWtVOUt3NENqaHhzQTR4NkE2VUkyQ2RkV2llRC1SelNmZVFpUlFkUlNIQnFEcGNraDJ6c1F2ZE91MDJSQ21zdUUzektERHRNQlhpczdxQWtkMm1rUXNaMGR2MXRjY3pYUjFVejVCNm5IMWJwRHdjdVNlRWJBeTRWMWhmNnljcHpYdDZqM2Qxamw2TlAyM1NicWtJ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR2lCRlZPOEhIS3ZaM3BZNkJGY0FQSm1YWUVLeEwxR2o4SURheGtrdWFreEZGOXE4X01nbVBkamY2QlF5SDZ4ZGpTTkRqMXVBR294bXRMbVRtMEg0aksxSzJjSldTZzBOVmZXSDZOQ2FYVHp3NTRMbGJoc0Q3YVp6T21OUk1ZUlczXzMxOG90VFJMNTkxdEtNdzR1UTQzbll2TTVhSDhSRVc1NXJJS3RrREM4LXZEb3ZtckxXQWtVOA?oc=5",
    "prio": "À suivre"
   },
   {
@@ -106,11 +442,11 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Produits & usages",
-   "title": "Congé supplémentaire de naissance : l'employeur doit-il maintenir la mutuelle ?",
-   "source": "Lefebvre Dalloz Compétences",
+   "axe": "Digital & IA",
+   "title": "Intelligence artificielle et épargne : 37 % des Français ont déjà utilisé l'IA pour leurs placements financiers",
+   "source": "Ipsos",
    "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkFMeXNOZTdpaTlUMVFOUnBHTl9aMHAtM1VrdkdTUk15dzMtazJ4ajVjek8wcmxiZ0JUc2o2U2RQdlpwazh6Wnh3dW5LRDloMHVHSlJoQVRKWDdCNkIxX0hSdG8wYkx5UU9VbDlJVzdhOURYWTU0QkQ5QlBEczBwejJDUVYzc3JVbDVxY1dsaDBacjc3bGJkcEtvLXhuS0FPRms4LVRUS3RIWS1sa0o5Y2FqRDU5cWMzMU1kNkRn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzJJSTFJb05hV3VyQ1dnWEV3T0VmMlczWnhNMVE4dTVJOWh3LWszNDhmYWljZDFtZ2xtWWNMeTRoM3FfSVA4OTRFUmNzZTJlWlRvdVdFTFlLM2RPUVRmLWdBYWZ2VFlnemQxYXZlUXo5Rk5FTjVpRlhzQWZ2cU5LN1Q5WnNHX3pv?oc=5",
    "prio": "À suivre"
   },
   {
@@ -122,11 +458,27 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Réglementation",
-   "title": "À compter du 5 janvier 2027, de quels avantages bénéficieront les travailleurs indépendants participant à une assurance accident ?",
-   "source": "Vietnam.vn",
+   "axe": "Produits & usages",
+   "title": "Assurance Renault Espace - Dès 27 € par mois",
+   "source": "Hyperassur",
    "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVlHUFN2Wm9yV2tseHhhQ1QyVmpaZERWSW9GcW83aTM0Mi00TnNmVWVBYmJ5TlVKYl9LVTdodGpjNFk5Z0Vzazk1bjNFSTk3R3dJQXh1VDc0YXBQQTZWdVZtOThSWFQzVE1vSWdLR2hPOFJraHllSkNwY250QWstOE9zZlNBSXhUOG56TW1PRWxkM0cxd2RGUDBxbXM5UllkQ0pXUkhjSUdYa0ZVVWxLRlZwdWl4WHZmRkE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xUTQ0aXlwU1NoaHZJYWJVVnJUS2xOVUp1ZHlXcDQ3blZESXBCanllTnNlM0hjdXZpZjV2TjNWQldpd1F5ZkYyUDZSSDljSGxadHROWGRiMHVPT3ZYY2dQS1Q2Qk9NUG1HdjU1YV9IVGp3UVU?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Concurrence",
+   "title": "Groupama Grand Est, Sponsor Officiel du FCSM jusqu’en 2028",
+   "source": "Football Club Sochaux-Montbéliard",
+   "date": "2026-11-24",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUmZ3YWVlWWp5aVJTVW9OcFh5Mm9LN0JraktPZVNzeEg3S0EyVVdMOGo2eEFGWUNmVjdhVjVicG5ZMm1vVjB4T1dVOUxZb0tJOTJEZUxzNDg0V3FNRFNUdnI2UkFBVEJGam03Z2JWbWpMNHlyZnFEa1Y0MDdWeml4QmlFUTBhTFd2eDJRY1RPLV9zWFI3U29xdXFLLVYyUG8?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Produits & usages",
+   "title": "Congé supplémentaire de naissance : l'employeur doit-il maintenir la mutuelle ?",
+   "source": "Lefebvre Dalloz Compétences",
+   "date": "2026-11-24",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkFMeXNOZTdpaTlUMVFOUnBHTl9aMHAtM1VrdkdTUk15dzMtazJ4ajVjek8wcmxiZ0JUc2o2U2RQdlpwazh6Wnh3dW5LRDloMHVHSlJoQVRKWDdCNkIxX0hSdG8wYkx5UU9VbDlJVzdhOURYWTU0QkQ5QlBEczBwejJDUVYzc3JVbDVxY1dsaDBacjc3bGJkcEtvLXhuS0FPRms4LVRUS3RIWS1sa0o5Y2FqRDU5cWMzMU1kNkRn?oc=5",
    "prio": "À suivre"
   },
   {
@@ -135,30 +487,6 @@
    "source": "Autonews",
    "date": "2026-11-24",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWjBRLV82elY0akRjYk0zZzZhNE04SWxmbFpRUnNrdW9fVnY4RGluUlNVWnVSZEVYWmwxZGpBVXIxalo1V05tZzUtTzFUeEJlQ1JJa3Vpa01JS2hSaVMtb25iWUVuTkhzMmRGZUhhaFBXSElJVGtXV21PTTc5TnR1bE0ta2VvOTNmYnhhMUVfb2xRZU55dHg1R3J3MTl4RkdTdDRPX2VJRTZodE1la2doMXlzX01rLVhDVEtuMEdoS01DOTlhc0JDcWFqS1lmR0VqX19pZHZyOXlvS253aDBBM2JrSU1acnlwazlRSkFn?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Digital & IA",
-   "title": "Ségou : la CANAM mobilise les prescripteurs pour une prescription rationnelle et contre la fraude",
-   "source": "https://malijet.com/",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHZIdUZ2d0NOWlB2NjFkRGZFSW5kODhsRmlkZk52R1lFc3NJclNFcko1YnRPX1NLYVRUdUozYkg5WEVud0NRWW4tWDNsQlBVeGEzd3Z4SHROcW1Xa0FneFVOT1hmZExXbFBiRlNsZlRvQV9UY0ZUdTI4d1Vla09QYzVXVml5OEE0cUVyaURlcXE0dHRfbGZQOS1ENzR5UThGU1dmbmpET0ttZWs?oc=5",
-   "prio": "À lire"
-  },
-  {
-   "axe": "Digital & IA",
-   "title": "Fitch : la résilience cyber prime sur la probabilité d'attaque dans le risque de crédit - Actualités et statistiques",
-   "source": "IndexBox",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObnhkYnNXU3BoVVE0dW01SkZRZ0NCWlotUFNnS1dyX2ZldmR6blB3RU9yaWZ2cXd1UkhwQTNvTzBJZmU3RUZvUXg5SzJZMEo5dE9WY29pZXdIVlpvYWRiRi1RaXJ0djlveTRfZGRMekp4QjByYUNjbVRUSkl3WXA2S2ZCelc4OGJlZURyT2t2dmxOVkswbklZc0taLVhiQQ?oc=5",
-   "prio": "À lire"
-  },
-  {
-   "axe": "Produits & usages",
-   "title": "Assurance auto : les jeunes surestiment leur couverture",
-   "source": "LeLynx.fr",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GMS1lRjF1Ylc1TkJJaGJkN0xRclhrMGxXaXF3TllMY1F1OUVYNFd1MnN5Mm9tWDdZaWZHZHNXNlhkbmJhaERuMVpQQTg0blQtdlZYLWdQV1FhNnlkN0laQ1ZHa3lpM01aR2VQWW02NWZ4ZEE0aUFSdWZoNE12dw?oc=5",
    "prio": "À suivre"
   },
   {
@@ -178,19 +506,11 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Digital & IA",
-   "title": "Les Rencontres Mutuelles 2026 : relever les défis du modèle mutualiste",
-   "source": "Newsroom Malakoff Humanis",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFlEVmV4c25PZHNabC1iWWNIaDlvNm53MUttd0lBaE1QRjFXellYU1JPZ05ocmRMeFRMVHBtN1FhaHVKcmwyWU9oZFoyZzlVOFBfejI3Slp5VTRGY2RfeTdiWlVqYVhtQ1lJUzV4c3RDODNxV1NBaWpRbGJJS0ZfaU15TkVXRHNFZjAyNUNTT2dJMG1zUU9NdVhVb3FVNXBOTnY1THU5eWNQYTdRNlYwNUhQdTZVdlZrWGxqU2dRUE1TZUNpV3cwUXVOQjhDZw?oc=5",
-   "prio": "À suivre"
-  },
-  {
    "axe": "Réglementation",
    "title": "Emeutes en France : estimation du coût du sinistre",
    "source": "Atlas Magazine",
    "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczhaWUx1b1BpNF9pNTlCaDJ3Z1N0UnBXWHdxVmY5eklSQURCU1JXY2FRdmpxNnJ5MDVwREtMVHhPU0ZlVm1Pakp2QXFUTXR6Smxhc3ItSDV1cWZRWld6NEJXVllIWHBLaHhpWmVLcE4tYUFLMzFhVXBIQV9wcDVCWnlnR0hZRkRhZ2JnaFJVQklnQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3ZBZ2RMamIxTzdlNEJUdEFIcG9jYmdXaXMxVXFLd081N1pOYkg0Nm0wUzdaX3pVOENhTEFNbEs1djluLTNwdEFacEhsN1h1RjN0WVRYc2xuUmdqOXlvRVRNY1lHdUtwcF9tdEN2OEdkYUpKZzl6RTlEZ3IzSXZBR0NHdnFPUnluUXgtWGhoNFk?oc=5",
    "prio": "À suivre"
   },
   {
@@ -202,6 +522,14 @@
    "prio": "À lire"
   },
   {
+   "axe": "Concurrence",
+   "title": "Courtage : Satec poursuit son développement dans la gestion de sinistres par la nomination d’une ancienne directrice indemnisation d’Allianz France",
+   "source": "L'Argus de l'assurance",
+   "date": "2026-11-24",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQY1BzZ2h5TXhxLVd4djRwRU1yR1BDRHdYaW1DNm1vM2lFaUhtcU9vd1ZQRUpvTVZ0eTVkdlp3aXBsUmFQTjBVUHAzUTlqYkhwbnpHZUFXTUdVMGJKbzd5Ql9wZjh6cU42LTd1ekZIQ25HbE5GdDJRV3NTRjUxaWNRek1lZG1RV1pQb2t1ckZQbHM5RElzRDlteEFPamdreERaRzQ3UkwzOWZqZU9qUFBnU193VGNxeEJLLTF2blJaNVpWYU1BY1lVdTZ2ZW5rSFlPaHN2RU5PMGdGQVBybmx0RmtURmlQN3pwTTYxSE44enotZlZINmVOYkQ5TEZUODJKblBTV1ZObG1Zd19CMzlfZTYwNHB3U0ttQXdTTWVrb3VpbFdzMTItbDVUdTRPWU1kWGdPbWoxejc2UE1RWXVMVw?oc=5",
+   "prio": "À suivre"
+  },
+  {
    "axe": "Digital & IA",
    "title": "IA agentique : le Royaume-Uni prépare son encadrement financier",
    "source": "Le Revenu",
@@ -210,43 +538,11 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Marché & économie",
-   "title": "France : 78 % des communes herbagères éligibles à l’indemnisation de solidarité nationale après la sécheresse de 2026",
-   "source": "Anadolu Ajansı",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYzh3TGJIVWJVMVhkMjVEdnFfTkg1OVJ4ejlCWEdKMTdpU1BmeWV5dGdEY0p6VURscE9VbW9jZUZNX3A1c2NFSzBNUE9YMFZWMUxQUkZ3WEZ1WHNPMG1LYzhNYk5pNGlHQTE2TlJObG15TE90bk5Fa2NrT1FzSmdKdGVwMlpQTXJOcktrVWozS0dtakpjSmxZTmo1RXh5UFhBVjJsdklORWdRcFFMQTZpTThCWHY4SUNRVHJpRFE0Umo2Z0ZoVEt0VUhIcFZkSEwzTlFvQkJmT1FXa2FNWUdIck9mUmdDTGtIZXRtNE1RMktZRUd6VHNNWFVlWjNBZ3czQ1ZPbW9FQk0tMGVCZmgyOQ?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "L’or rebondit et retrouve un peu d’éclat",
-   "source": "Le Revenu",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVY0Vktuam5DNXhOTW1fbU9uUzRaSmdIcWlwWXp2T1B2U2VMM09QdUZMSEpHWk5IYTdjREdUelBjU1dCOWJCWTNGeHYwc3NsMmRxajVPdHJCdERSeFBfcW9zWl9sUXdWX0VQWEpZMktVRFl6aFZrRV93Q05PWEJkUFpCdUtSa1BYUVVCM25KQWQxanE1U1hid19lT2M?oc=5",
-   "prio": "À suivre"
-  },
-  {
    "axe": "Digital & IA",
    "title": "Marseille : un médecin jugé pour une vaste escroquerie à la Sécurité sociale",
    "source": "mesinfos",
    "date": "2026-11-24",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFFwUFFYc0lxaW9ZNGw1RnJCRjV2SU85amtqUzlsLVNQYl9pTV83ZV9ZQmI2U3FpWGFvUm9QNGJPQnFVbk5sa2VBZGlqcmNmUWFVWWFLc2tGV1RoWnB1UDl5YUdwc3dKT3hid1pxYUl4TUhwYXhWNWhMMi1vRHdlNlVZeUhfN2tGazBsbWJrUVFUNmFkd3VNWTBmNXcyTE85WHBFemRqWnRZTzRWdTZhVHNXbXgyVXluaktzRjlxYw?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "Nvidia : le retour de Jensen Huang rassure les marchés",
-   "source": "Le Revenu",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVk1RS0N3TGFNbHBTeDZrZ3VrWTVWY2dZQ0NkVC1ZQ3pHZ292RWFGaDR0Skk2a1VSSHljY3pFemFONXAwSmRrMmtYaXoxekszZmpyMlhYSTRhS3VJRm1qUjlmcDRsdVhaY2pxQzdWT0NIdXRrU1dGa251T1hXRFQyZ0xDQVYxYjcySUhvUVBvUFVidUZQSDM0bjcxX0FzSkpWS1E5SXQyZXplQzdi?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "Sanofi frappe fort aux États-Unis, le rachat d’Insmed enflamme les marchés",
-   "source": "Le Revenu",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1Frd0FUOVlzU2ZZNUZYSlhGbjgxYkJiNEF1QUoxLVVVa0RMNjYyMWZaYk5jQkFfcEFfRXBiN2JpQnVVeXFYMFBSS2lMbW9tckJ3ZVlSTi1ldWNXX0NhMS1XM2J1alZhNUIzSmRXajFDOHpVRTdRcEZuUnpDRXB5clhnWDAxazN3aUdURUFvRHg3dm1sSF9JVENMMnlqRTg5YlZLaWZMX1FhaWFKT2l0Zk42ZFJyZUFPQ0cyVVlkSjUyR3BTR1VwTzJzV1M?oc=5",
    "prio": "À suivre"
   },
   {
@@ -266,7 +562,7 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Réglementation",
+   "axe": "Digital & IA",
    "title": "Corgi, ou l’histoire de l’assurtech qui veut devenir… une banque",
    "source": "L'Argus de l'assurance",
    "date": "2026-11-24",
@@ -331,14 +627,6 @@
   },
   {
    "axe": "Digital & IA",
-   "title": "Risque d’entreprise : les premières pertes liées à l’IA, partie émergée de l’iceberg",
-   "source": "Le Moci",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEZ2Q3ViR002Z1dOYm1ERk5YNlBaTmxPQUc2VlRlX0ZYV1FPYzVjVEZCODZud21ZR2cxSk1ISG8tLXd0ZlZlQXlObDIwaVhWOTBuY05NamdKVWIzZDJKU0VQbmNLRzdUa3AwRDRMVVE0T1hKbHlWdmFfMHFfcFJaOFhqWWFtd2R2WjVyMzNkSkZZTWVpN2tRUlZXck1Ba2FHaEZqTkc5VGZzamZhUnEzd2V2bzdsc2dqbjZuLTRHUDZlQQ?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Digital & IA",
    "title": "DXC lance Frontier Code Assurance avec Claude Mythos",
    "source": "Unite.AI",
    "date": "2026-11-24",
@@ -351,14 +639,6 @@
    "source": "LeLynx.fr",
    "date": "2026-11-24",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWNEdkRtZl9xWG03WmxNdGFHS3BIcjV3SFZhQlVOY2xpZlVJa1Y0aE5EeUFQMEZvYWtWV3JkZUo0azFlb25Jc3ZmMHd3X0lhazRvMndOZnpIc29nRzJwdXk5NnF3eElxdzhHV3haRXN2cElhOFc1eHlRd3FBVXgtUEF0LUY0QTZs?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Digital & IA",
-   "title": "actualites MUV2 GY DWRT 710C 1227 (MT22LV) - Warrant | DE000MT22LV7 - Cotation BOERSE STUTTGART",
-   "source": "Bourse Direct",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUDAxOW5FYUxhTDBYRWh2OVVPZWUydUFzTXJ5VEZvN0Izb2RnbDdoclM5RGxEMmxfcUFJLW5nWm1QVXZtR2NEQ0hzMDYteVkteENjNkxpaWZJQlBJdS1uSTJZWmlHd1E5ZTVxOWxOcEE5QUlNVDFPbTlxX0tXLUtnMDQzTUJFck1LSk41Z0RQSjhRQVFGQ2FuNkc1aHFJZklEeVpnNElWLWoyYTN5X2NfNzNaSHdwZ0Vp?oc=5",
    "prio": "À suivre"
   },
   {
@@ -418,27 +698,11 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Marché & économie",
-   "title": "« Malmené, plié et chiffonné » : pourquoi le billet de 5 euros est victime de son succès",
-   "source": "Les Echos",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNODNvQ0dfY3c5eGd2TEpYaXlQdE9ZMEEwTkIyUHhqTWd4T2ZodDNmUl9ZX3AwVXN5Y3RVWHJuMHM2SjRyUHF6LWxQOFZuYm1PVVVBODExS0xZVldKOFNQbUdhQ0NvaVhCRnVHc0xpZjFvTl84c1pjQUNoYURtUWtmdG5KSkgyV2hudkkyVVlhUTZyTnRnRFFucEk3UVZXT0RDZDFEdXdpLXB2NVhZY1hya2xQeHpVUkFPdkR5TTMybUdNVzJTZzZSNGp0ZnczX3duNjdxa3NuN25NeFV5SzhiRA?oc=5",
-   "prio": "À suivre"
-  },
-  {
    "axe": "Produits & usages",
    "title": "La diversification d’Orpi au pas de charge, les bons comptes du Crayon... les télex de l’Informé",
    "source": "l'Informé",
    "date": "2026-11-23",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcjZReHdFamdPbTFlUjhoZ2l1djIwTk0xSDA2U0t4cDJGTmY5VFB2amxZLXdlVDhiN0xJcUZ0YlpLYTllVlFYS1NYWk1pNEpwT2tCc2ZsUzc4eUx0NVhIUUxBbmJxQ0xEZmZFWkZnNktiRHo5NzF3S1Rtcldrd29KT0hSODR3OWw5U01iVXgxUnp4RW9hUktIU3A0eDhjNDVydmVZTXk4QVJoYm9NbVIxQ3JkSjdBaWE1b3hkUXFTVEJyWmY3QnpGSGRfQzh0NEpMck1vSzhiOUNzN05oejEyUw?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Concurrence",
-   "title": "Transfert du régime obligatoire des fonctionnaires : la MGEN dénonce un projet gouvernemental sans concertation",
-   "source": "Acteurs Publics",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZFRGNEM0SzVLQlpqWnNhTjI1V2xCaWxpbER1SndPX050VVhuNlA0dE1JWko5SkRrbjIwcDdDSFRRbFdNbWtkTEs4aU82X2Rxb1J2TlpZaDk4VmxJVW1RV3h5S21ES3RDWmcybmlnd3E4OWQ1RDNEXzA3cEk4eXJadkpLOW8zNGtxWDlWa21HZlhTdm81QzNTazEzMDJlem4xQ2FiMmZfQVFzVlVBTk5zdWxaRWpPS3FOVnhubHhvQlZJXzZGaG51WTIwMm01LTRpSG1CeFFKUnVwcU42eHc?oc=5",
    "prio": "À suivre"
   },
   {
@@ -450,27 +714,11 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Digital & IA",
-   "title": "Can Tho intensifie ses efforts pour sensibiliser le public et prévenir la fraude et les abus en matière d'assurance maladie.",
-   "source": "Vietnam.vn",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRDVTb1FhU3Z4V2hONVVhYjVfVVJoalBVMkdLLUxQWHVsWWlUUm9iMEowLVdrdTMzOVpoeXppVEtrTTdLRVpHV1FNdlBrcFo2cng2eHlYdG5zdnJxM1ZFSFhQTFo0NUhxNUFiUWVzRGVjTS1xN2pUS3JOa0dLM2I2VFJnNG1FeEtYVG5KamZna1BTRDhiOWU3OEg1SHNGWlVrclE?oc=5",
-   "prio": "À lire"
-  },
-  {
    "axe": "Concurrence",
    "title": "Une agence Allianz a ouvert à Aigurande",
    "source": "lanouvellerepublique.fr",
    "date": "2026-11-23",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWtMdE9SeW92M0ZWQ1pCZFVFd3VreW5USDUzVllVRXlpM2FzNURwdXVhMzVHbFczOGNEVFh4d25OZGFpY2RqSGsxWDlGdElQYUwwakVOZGpZOW1HV3V5WkNaUDJKQ21KYU5MRzNhb295RWtNNk1yaUF2dEIxeV9YS0FES2J1UWlrbjJPTUdxaU5nSUlxVDVJcFhFem9fUGtjdUt2ZzFIbG5ybkw2TlM4?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Digital & IA",
-   "title": "La détente du marché de l’assurance des entreprises demeure très sélective",
-   "source": "L'Agefi",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVMyREJ5ajQzYVpkbjY4dWZ0YVZWNGU4ZS1wc1BLZHZkRXh3N0tZblR5dTZLUjc0SDVGd0hsdXhMeWZzSE5XeEhMYUVMSU1aMXdiNy05ZllGNF9wRUQwZGlWZ3JfVzBkaDRiUUlNczAzaGEwTlA1cHkyNFNGVlVGakQ3ejVXMWZ3WHhrWS1kU0lYT20zQUVQTHBVcDRqOHBhUUExZ2VoNERjQ2lDVXFJYTlrcEFDd28?oc=5",
    "prio": "À suivre"
   },
   {
@@ -482,20 +730,12 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Réglementation",
-   "title": "Nouvelle réglementation sur l'assurance accident du travail volontaire.",
-   "source": "Vietnam.vn",
+   "axe": "Marché & économie",
+   "title": "Harmonie Mutuelle se renforce dans l'épargne avec l'acquisition de la fintech Epsor",
+   "source": "Les Echos",
    "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVN3Z1NpbDZzdTZmNVg2QS11UnBfMzZpbU9FQk1qcFNSa3VmdTVadTBtLWlTUUtWQm0wYnFiQ191QzNjbjJkQ2hFYUhVSl81SmdMMVg3MDEyWlJRM29qNjZwMndOOGlmeklhdzNZbkF3OHNEYmRic2lZTGZrcWJOLTRXLUJVWDV4aUIyTzZldGNZRkFrR0ZV?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTWFJMVd6V1BtcG1fOXVXc0hzTmw4bWZwTHNTYjFGTlh4d1NvQmR2dkU0Q3FXS0tsQzJCblBCbC1kUUR4elJVbWNIcGltNkNqN0V4b0NYd2o0cmJpSVd2TExaOWZZVEU5ZWdNUG0yenZaTEtKR0hDRW9FQm1XenN4S3FCelNBWEpHSlR1REE4cTBjWFlWUVBoV3VkUXo4bHpLcU55YVRkUEFvY3JIMGxYaDAzLVZlT3lfN1ZoQ2lYWi1nQnFyZzVZWU5KdWh5VW8yY2RTTzVxWUdIWXNEUUFsNw?oc=5",
    "prio": "À suivre"
-  },
-  {
-   "axe": "Digital & IA",
-   "title": "Delubac annonce une cyberattaque avec fuite de données",
-   "source": "L'Agefi",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNG1aQmRSSVlhTHBwZ0Y5ZTh4S085eUUyVk0wVDZxc3NrSUlXbE1BOFVpZWQxMTJRLVVnbnMxLVFFUTdhTE5XNXJ3VDFRekpUYi1Lemt6XzlwVVVlcXFWYjNsam4xY3o0RE5KWTR3dTV0MklHb0tmT0ZBSHYwaFlyZmhEVzBfcXZ5ZU9vRUc3d3ZWY3NuelQ2eGJqZFFhWG1xdDRmSGlvVDVOSUIweDdacVVoN0FkczM0dUlqNg?oc=5",
-   "prio": "À lire"
   },
   {
    "axe": "Réglementation",
@@ -503,30 +743,6 @@
    "source": "L'Argus de l'assurance",
    "date": "2026-11-23",
    "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNb3JWVGgzYkdKLUx2bVFwWTZvU2U5a1BBRUEzSkhhdWZQNDB2aEVMd0NUdzZSdURvb05JckR4THkyZ2lVeWdtemRjam1ZNVZSdjE5dWhqZnh4cmtaRHFTeWliUHdzOC1BRXEwb0pyMWczVlZ2UnI5MWJRMmdaaEZRbm4wUEhDYkViMjdBSWJXRWVhTTRRa3RCdzNseG9laEtpU3B2Sy13LUtmeVVkZjFydUlxdHBOOUE0WmNNYUFkNnhWbTZoV1AwNVdERlptd1V1cVdwdC11X0F5OFZtaGhsVE5BemtuSldpU2JCdkFmZE4zMU9EOTRhZmp0ZWJXaFp3WW02cThkV1ZLWTVSRU5wTjNaQWRXYW9Hc05iNDRyNVlBYmZmQ3N3UHRtRFp2QXFLYW0tcWUwVVpiNTc4RjVsdUZLV18?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Produits & usages",
-   "title": "4. Mercedes GLA 250 + électrique (2026) - La concurrence, le bilan global, tous les tarifs",
-   "source": "Caradisiac",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdmZSenBDemN4dzM0MDczaFl6WUxocng4RDRxSWxWTWs4TGpjbWJrRktoTFFkb2VWb2drTFowaHE4QVJQdjFBNlhpM3FSbFdKTFNDQkZnZDN6OUpfUkItX2JKQkNiVlh1LW5FcXVKQm5pSVRvek5paEhVQ1pvV3J6VlJPel9ISENiU2NTam5GZU40SUFQcEdwNzNVWno0QjhhaEhyZ0hKVkotTFNTanhRbGJBclNwaDBs?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Digital & IA",
-   "title": "La sécurité numérique en Ukraine : règles de sécurité sur Internet",
-   "source": "Visit Ukraine.Today",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekVTWVRXT2ljcHp6UldpdWgwZGtOQjhxcmZubUJwNHhvclRBMjJQQ0Q3UVUxVmxKUGZwbUpDc2NWRUNsaElfOU5kRld6Skc1ZXg3Z0pTSWxMZm9xMklIZGVTZlMzbTF2T1hkRTQ0OW82NnRqMjFPWFdpSDdGOUVGUUZpNW80eHNVNmpKNjRaNGdkZHpNUjFDcG9PYVBlWXZkdU9qNDl0cGlDUQ?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Produits & usages",
-   "title": "Route accidentée : quand Google Maps se trompe, le conducteur reste responsable, voici ce que l'assurance couvre",
-   "source": "JeChange",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT05ubEVCT1dUN1d0WExnckt2aHlsUnZYRWc3M2hIUkkyWUU4OTZPNEFvTzEzYy1QZ3pFMnlpbHNBaUd6Vno3eU4yQWNZc2xXcnM0bFJvWUk2NDR0SnoxclBaVUszZG9ZLTZhT1FWRDA1WUIxWktRN0xHSmhQOGk1VTJOOERxN3FqVm56Zkw0R3YtZzdMZTJnalNFamFFbERMVno5SjVYWmpXTm54bjNzZ09iQ2VDVzM0alc0VWRmbWZaQQ?oc=5",
    "prio": "À suivre"
   },
   {
@@ -538,11 +754,11 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Produits & usages",
-   "title": "Complémentaire santé : Avec EcoMix, le courtier Heomi rend quatre garanties facultatives en santé individuelle",
-   "source": "L'Argus de l'assurance",
+   "axe": "Concurrence",
+   "title": "Le nouveau DG par intérim de Malakoff Humanis a démarré sa carrière chez Roland Berger",
+   "source": "Consultor",
    "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPY3NtSmNxeFVISjFTOV94MUs1YVVpZmRIeWRSckFoVEcxX2RaQ2c4X0hLeGNidDFYZUZlZEdkUWRveVRMNFMwcF82bkdYeDlaZW0zUzJYWkNrTlloaDJtNVlnV0VmVnRTZ0NwNW42aEdWWFVVNkNoVmIyeUpseEtDbjlBOGVoMkt3ZWhac2RxSjF2N0EwNjRGR1ZBU0FLeUhwTGN1Ri13MFo5ZUVxZWVTR3pLeFZzSW9sTFpETU1fSWE2V3BmUWNrVF9KdXlYdUxESC1Ma2txTGNDcGtBMVpIdU9DNXNMU2N4Y01PbUxsXzdQVUxsREtJSlRzeUsyTkRWa3UtU0tiZE9ENmFtRHBHUkVmTGk2SlRQRUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTZva2h4WnRSRXpWVXpreFNESXdzTWtSc2ZVZFhrdXJfQVRQb1N4LXdHa1JSMUl0YzZMSzlZV3pyZGRjTmRmU2RBSnBmMk95UVJlQkoyZC14cVhoYWprSENsQWdkbVFmNkp0QnRRZTNhQmhlOG90aXdlci1hdUtMNkZ3R0tmYVI5MWxjX045MEtzQm56dDA1TnlSaHZEU0Y0YXRTSGc1eEVJOGhTMFVaRVlQRS1Ody1mWEdiVQ?oc=5",
    "prio": "À suivre"
   },
   {
@@ -554,38 +770,6 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Produits & usages",
-   "title": "Assurance habitation : +20 % en Nouvelle-Aquitaine, et la Corse reste la région la plus chère",
-   "source": "Actual Immo",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tLWE4TGhVMmdyaG5qZHJGaGJhcmZiWVlvbnV0Tk5LMWxQdFRyQkZtWEJhYzRfWnRORGNnVTdTYnBRS0c5OUpPMFpXTTZFTEV1M0JiVDkzZThmLVJ4Zm1fbEZHc3ZHV2E4V3dWNFlDN0h3MkFG?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Produits & usages",
-   "title": "GTA 6 et conduite : 5 heures de jeu d'action suffisent à mieux tenir sa trajectoire, selon une étude sur simulateur",
-   "source": "JeChange",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQelFaOWZIclk2bGlxeE9vVjNReGk4Z2VXV2ttRWp1S3lIR29CWjFQdF90bnByTmtOZVF0U1pNX2dUc1dZWXQ2NlFLV2RhNktYWncwZ016NUdBRGFCNUZNNDV1NDFRTmcxLUVkdVBpc3prT0xGX1NmWEh0Smx3eXlIMlpKMHZrWnRrbk1VVm84a3JFaENVQkd1Q29jeU1XcTV5NXZCWVllVTVOUXM?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Réglementation",
-   "title": "La Finma bute sur le problème des intermédiaires dans l’assurance",
-   "source": "allnews.ch",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGVHRm1aRU5yMjJIN2lBSFN6UDJxOEROYkFGZFpIR3BBY3Y4VXNFVnd0YkptMWVqMnd5M3V1cnoySUMzUXdZOXEzSUpZeEFra2ZScXBWRkJNUGVxNmxpcmFWdm01bmIyWVVFQVNCS1ZUS2lxUmZhc2FWV3lNQkVJV0hmZlIyeEE4dFhaQ3p6UG5VbUlOTEsxMDBCVDFQRTczNFRkRjJZNXllUklyb2l3QjdZYkpub205V0N0QWViSElQcnpoYl8yT2t0Skg3X1k?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Produits & usages",
-   "title": "Voiture volée au garage pendant le montage des pneus : ce que le garagiste doit prouver pour ne pas payer",
-   "source": "Selectra",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQnBlLUFXUkJPNGMzU0lrZkpPRERIOFhpWUMwOTMyR2dVRmcxTjVDV1RWRFMtT2w1ZTlyQnZOUlBKSjUyT3hpeGdkYW5pZVhtMDlDclVQNFNWLWlJNDdxaDcxMkhBanN4LWlLa254REVEQXJaRXlpOGtqaVVaYV9UUFpFVzhjUFpmOWlfMHJuOHhGVnNVN2V2VnhTU242UQ?oc=5",
-   "prio": "À suivre"
-  },
-  {
    "axe": "Réglementation",
    "title": "Le legal privilege à la française : le gouvernement publie deux décrets d’application",
    "source": "Décideurs Juridiques",
@@ -594,19 +778,11 @@
    "prio": "À lire"
   },
   {
-   "axe": "Digital & IA",
-   "title": "Kenya : 3,37 milliards de cybermenaces recensées au premier trimestre, les entreprises appelées à se couvrir",
-   "source": "Financial Afrik",
+   "axe": "Concurrence",
+   "title": "Ucanss : Un deuxième recours déposé par CNP Assurances",
+   "source": "News Assurances Pro",
    "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTU1KTmhobEo4bjlpN1NNLVdHUVc0ZWQxT19iUUdaem5zeTAxWWxVQ3VuZlllaFRaX2V0WmJHM09sdV93MURGRXNyV1FuTXpQLWQwTXZtSFF4c1ZNcmRGTU9rd2xoeWtIZEhXS0Y3NEJhZjhfZ0NVVVhfZWVBRVFTaXZMX3pXMzB2NUZ2T3k0eHpYXzhnQ3Z6WXViQ1E1bl9XTXpMYnpwRzNtTWdjTk5yT1dRVVRTOThFSEh6cTRnd3ZWb1RLUmNxNTFiSklRODlNZk5NSjl5QzcyTlhHOEtvQw?oc=5",
-   "prio": "À lire"
-  },
-  {
-   "axe": "Réglementation",
-   "title": "Nouvelles réglementations relatives à l'assurance accident du travail pour les travailleurs volontaires, applicables à compter du 5 janvier 2027.",
-   "source": "Vietnam.vn",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0NtaVR6b3JuOUdWd1FBS1RyQ3BuLTluOGVkTWtuQTE2Tk12SkNlOFZ5NzdIclhDMDlMTEN5WGl1bHBQNEtGUUh4OWRKMmo5enVoc0ptaDJ4SU5sbERyY2JOeTZyTUE2dzFGaGtoRTI1OG5mbmc0MVBHVldwTGc1ZGR2bTAtRHFiaWZfVFBMaXd1VGNsZEYzcTdLX3F3RFZpQzU4?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFE0blJFbzFGQ0l4U05aR2dydkVDYVZaemRUS190MkIyUGtBYUozNHZ0aUh0SWtCTGE0RFE0WWZsTXgxUm9JaHJPM3N3VXRPc1o4V19QRF9ZWmR3SUVBcjAwWmxsd21IZ1h4WFlpYkRDNmVCMmUyR0t3QnBWdVphUFpTa3pnYW4taU9BZGV1SXpmOTBkYTU3SDRFVk01MGc?oc=5",
    "prio": "À suivre"
   },
   {
@@ -618,22 +794,6 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Digital & IA",
-   "title": "Comment l’IA, les API et la digitalisation révolutionnent le rôle du Credit Manager",
-   "source": "Daf-Mag.fr",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlNyOXNtNVF6eGJSUmQzeHVCWkFlNGY5QVBFVllIU3dXOGhXN2lrX3N2MnNZLU01aHk3bkNOTHVJWWlHV1VLN1p3a2E3RUpqVnRpaUlzMDZpZ1YyVTJ2N1B0a016bU9MU1FvRHkzRkY3YlVyT1FvcmliamVvNDNBSk84WXpCQXVpVXV3WE5FSEdTZWw4T2IxME1VUTJ3ZWdGOV91MUdNVUI0X3M4UF8zSUtmWlJMb0FxZG5yelFkcFFfQlBUMUhDbWFQQmNnT2tYbXNiWUR30gHbAUFVX3lxTE0wZEg5RnE1N05kbEZoM2F5aXpSbGlNZlNVakloUi1WaWVlZU8zQ3R1SWlQYU5vUmw1SXFJUWpreEZCZVVrQzVvRVUycC1kSU1KM1Z5SVkxbUg3aTJhaHlscDNuYmR2ODFhaDdEMk5XVXQ2WkNhMFY2YU1rZERQVE1hZGYyeEh0bjNQMF95NDc1X0w5bnY0NE52eWtYN09XSDN0aW96bVdaNWh5TFRMUzlMd3Q5VmFoaTEwdncwbFNfT1RjZWlkRUg1ai1hQ09VZHpuOFVzOXowbGpISQ?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Réglementation",
-   "title": "Responsabilité des comités populaires communaux dans la réenquête sur les accidents du travail en cas de plaintes et de dénonciations",
-   "source": "Laodong.vn",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdS1pd0R3cmx4MlJTaGg0M2NNOXpVUWtvMzlXYUdSQWl0dWZpZFdIalIxVTA4RjdRem55M0x6dDIwM1l2emM0djRaX0ZuSVFvMENLTWRZalVFNmdNaU1MdnlKUW5ibURGdnB3QjVFeXNCVW1uRWRJSy1ZemsyYTRidWtDQjZoX0RlUUJoQlY0NlR2b3pIOGFfUGRrQUFtUVpoR2lpU0FoRW04M1BvWW5veVNfUk9DQm5ielpoLUpzYkM3dXE4Q3hwcGFWYTNuVW5aZ0ZzRnJ1SQ?oc=5",
-   "prio": "À suivre"
-  },
-  {
    "axe": "Concurrence",
    "title": "Macif vie épinglé par la Cnil",
    "source": "La Tribune de l'Assurance",
@@ -642,35 +802,19 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Digital & IA",
-   "title": "La Finma bute sur un problème dans l'assurance en Suisse",
-   "source": "Watson",
+   "axe": "Concurrence",
+   "title": "Assurance voyage annuelle : nouveaux tarifs en Allemagne",
+   "source": "KarloBag.eu",
    "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYk90Ti14LTctMmhWd0hwaERVaWtPX2twZ2VmcEkxOGh1SUZFcTJjZWo4ckJ2Q2lCdndhQWl3ZGtlLU4wcC1ESC1YdWRiNnAxREk0OFhEQlJpTld1MV95M1c1T2JBTldOVWs4b1hlVjZfS29rN0dZZV9JcUJCR1VjRUVmYUVSMmMzS2NqWlF2bnN0Mk40MFNCWTc1X3VGWktUNFFybHdueExlb0dhc3F5VE1IenhmMk0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkhSeEd0VHhNYnhyRWxQQWZrOUI1ZVNEYUk3eEN2NmZnRDMyVXFnX1FMc1VVZ0RRZV9BZFp1ZFoxdXFiNFh6R2tiSk9ndEdrc2RhcmZiWk1yUmxlLXgyZHl6ZVdFWnhEdmhpUGRrX0xOWVNQb1dNVmQwSW5RUHpOc1FMVWE3QjFta3c4cmVyYl92aEpmeXN0S1BKSEVwRUtPLXhDbTZOeGNpMjV4ckxfV2VKTEVETkFxeFE?oc=5",
    "prio": "À suivre"
   },
   {
-   "axe": "Digital & IA",
-   "title": "Risques d’entreprise : Arch Assurance France (Arch) annonce une évolution dans son organisation en se dotant d’une direction de la distribution confiée à sa responsable sinistres",
-   "source": "L'Argus de l'assurance",
+   "axe": "Concurrence",
+   "title": "Assurance-vie 2026 : taux 2025 des fonds euros, performances publiées et rendements nets pour l'épargnant",
+   "source": "FranceTransactions.com",
    "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPN3lYekVCYUVTcHA5QkttU3hnbFhQWHl1aWJ2Q2JRWjBZYS1Cc2ZEUnVSRWVQTElUMG9uX3R2em5Bai1VQVpxN1BxV2hwMzRmVVB2ZlpmOEUtMU5tUkZma0J0cms3czhYclBuSVZtaDBYZXlkaVpmZGxmVHNrWXEyOC1JXzJxVER4WE02Sk5xNlNTV20xUEJTNDV3bDFaS0dHc2JUTWt5bDlocUNFTFNsRUdjdEJvT1RVUlNvUko1NHhYeGtLM25pOElXb0xxNDJxaGpEWExjTDV6R3JFdkduVHh5MkN5Z01uSVlwYTU5VXBiQ0QteUtqNjE3RXVvUUQxbVprZjN4MDdtN3lUdkVPTHFQX1Q2SGJYcjNXaW5TSGlKd04xRFNDRkdka3NieEkxRUdwUUhoMGo1NmhNOVMwMjVzRy1YeW83SzhQSEhlZXNXRmtNUE5tLUJkbGVEb24xRVcwOEtvRTFxQmhNTTk4aUVNWkIycGFNdkhrTDVxalpHU2J3Q0RV?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Digital & IA",
-   "title": "Bourses asiatiques : Séoul chute de 5 % face aux craintes sur l’IA",
-   "source": "Le Revenu",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSWFRMzY2UE1YblRVcTRNaUZ3RHgwaUpHVlRxUlQyUlk1S3JpQ3lJZGItQm5jSXFQTXdYQTFQOWZialNLcU00OW5qY2ZSLXJxQ19aNEpNQlZraG9RV3ZkYWVwRUZrWF9GalB0eTIwNmFIeFZ4RmZoRlR1aHNIM3VSdDcteVpIMkVBUV9WNThORkRFakpZY1k3V3RNVjhwSGpSX1VFajF1eUZTVVN3VmRleV96X2UyeV8xcUtnMVFvSUpVbDd2dkxaMnlYd1BSWVlkem4xYTJzSnFJYWlucmc?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Produits & usages",
-   "title": "Bornes de recharge : 850 stations visées par des vols de câbles en 2026, soit 1 site rapide sur 10",
-   "source": "JeChange",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYjRuZ1lzY1JTXzVkNHQ3UGd4WXZiT0ZiSmQtTjBMY01JUkNCZG45THZPcHhuOGp6d0UySGoxbW5yYVQ0b09LOGREeWdvZk92Yk13YUNra0Z5N2V2NEgxVjZZY0RNVGI3dFNUYUYxNTRLRWNiZngxNjlwLXBzQzg3cFJwMWlKV2NycHZPQkpTYUl5Y1p2MmRCOE1HTzdqV01nbno0Y1JTblh0Wlk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVJQSm9Gd3NJQmsxSk43aC1mdjNaUnVzdnpkY3NBNGd0d0tEUXJNRVRheVhodm54Qzc0NEJGejV5VzdBenpvUUtHS20ya3lZYnEyRDBmNmRQYzY4VFlGYWItR3gxQmctTlhCRzZaTURHeDVja3YwN0o2X2ZRS2ZUOU1VdDJQcUZQWFk4UTNDLW10RjRMdHVsRlNxRQ?oc=5",
    "prio": "À suivre"
   },
   {
@@ -690,43 +834,35 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Produits & usages",
-   "title": "Encadrement des loyers : la loi du 21 novembre ramène de 3 ans à 1 an le délai pour faire baisser son loyer",
-   "source": "JeChange",
+   "axe": "Marché & économie",
+   "title": "Les prochaines étapes de l’indemnisation des pertes sur prairies",
+   "source": "La France Agricole",
    "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjBlczl2OGkySmM0emQ4bGw0WXIxUTNfbzBLUzZuRkNseVlSNTg1RnZxMjNnTFRwTDZWTGVIOFJJWmUzS296MzUtX2RuUFQxc1FNYjZ2aWYyZE51MXpSNGxqZDQ1UEctQkZncVhVT2k0RjV3X21LYV84RDY0SzNTbU9KWlptdGg2R3RiMHV4WVc1bWZROGstRjdwTjNwQUZuajd5SmVoTmtlNU44N0N5ZTlrN3BHRXpBZFpPQ0FB?oc=5",
-   "prio": "À lire"
-  },
-  {
-   "axe": "Produits & usages",
-   "title": "Les banques vendent un coffre-fort numérique 1 à 5 € par mois : ce qu'il protège de plus qu'un cloud à 2 €",
-   "source": "JeChange",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSmRyZWxJb0lCQV81ZE53Ym5xUnVXa3h6NWZqLS11ZzZlN2lfNkZPWHRfd2MtcEtnSnBzTV91aXlGSU16RURfM05acDRYZ0M1cVdWWnlCd3k4S3ktTVBtRzVqOGlRcHVvcDR3akwyMThCV1NzMzVEZUI0STFvLW41Q0xVWmpLejhWU1dHNkMtRFhKMENxU045UU1oQlpiRVZmajJ3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHlHZkk3emc3SzdjTmVvYWxhaXJFREQ2ZkFBVl9wMjUyVHRMNE1SV3hTVmlFcmFfWnV6b2dnZ3RjNVFrMG11NEphYWt3N2R0MTdIMlhQLWlTclg3cENLN2FwMzV0SS1KMDlpT1lMZHRpUnRXQjFDMjBFVVo5dkFCMl9GV3FLdkk3ZlEtMnAwMGNxd21sSnhBVFZMZUtzQ2p6dlFmeXR3blE3R0Y1YUtibEoyV2R0T2dlT3FnQ1dR0gHDAUFVX3lxTE5KVmJXX0R0MTl1cFFSOUFqWnJzSzA2SjFFOTRCSElFM0RMQjZ0emRZbzhkS3hVOXJpUnBGOFNTMmZ1bGxVcGx1bW92cG05R2VEMUxqeEFJOExkaHNDQ0pwdlYtNDVuQ3FFSDNsTHJHRG96ajFzMEZSbEo0NDlOWjYyRUhNdUJfYTducWtDV01qdGJNLXlDWU14bHpKaVRvSDBseUxOWG5OUURrR3B1RGlIVHFlZXpsVi1UQmMzTngzVzE1Yw?oc=5",
    "prio": "À suivre"
   },
   {
-   "axe": "Produits & usages",
+   "axe": "Marché & économie",
+   "title": "Taux immobilier : baromètre des taux actuels",
+   "source": "Pretto",
+   "date": "2026-11-23",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4ySEl5VVV6TFlMOGZycVNrMW5FUU9hLURjSHFfTjk1LTNGcTg2Y01JejJVaERwQmVNU21sQzBxdGN5ZHQ3bmZEV0d2MURhazg?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "Comment les laboratoires luttent contre les sites proposant de faux traitements anti-obésité, type Mounjaro ou Wegovy",
+   "source": "Radio France",
+   "date": "2026-11-23",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPdmZfQ3BfNmFfNlh5cFhfWndGRTZHM01RWDB5a0ZsR3pIcnhnR0VZNkoyUDhLQXBzanRZMXVYZnlISndZM0hwRU9RN1pTeDQzdS1SRE5uVUdTMzgzRWQ1Ym1rdHhPV1ZrT2pCR2M3TUtSLXpGaDg4Ukc4MDFBRkVzdW1ra2w3WDROTkxMOEpWZk1lVWNhOUJSRE50MkhpQ1pkcUx2eGZBUFlIWkQwRkpUd1JvQzBPbWxMZE9LM24xckhKZTVLVkNKRW1kbnZnWlphdlJSeXpNRFNueDdGVlduV2d3bGFJMF9yXzVmZDVkUUh6VVFGRDBWa1hWd2tYTE5uRFE1MmhJTVJfNUVOQXRMYVlYZllka3NtQ1haNVE0NA?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
    "title": "Assurance auto et moto en 2026 : la Provence-Alpes-Côte d'Azur parmi les régions les plus chères de France",
    "source": "https://horticulture-abadie-pyrenees.com/",
    "date": "2026-11-23",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kdF9mZjMwcEoyOW4yM0lhMlM3SFNPeFdpbkg4M3RSUWFQRjhqQ1FUYTlZMktTLTgxWE82aE1pa3doRFFmQXhRS3VmZlZFYU9EUlBEOGNWSTdiTElWTDBUWkxtWUZ0dWNNR2IzaE11ank?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Concurrence",
-   "title": "Cameroun : SanlamAllianz perd du terrain dans l'assurance non-vie, AXA se rapproche du leader",
-   "source": "EcoMatin",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHBMNWsxOEtQOEFpTzRJcGNWb3QtVm5zRUFnN1d5amg0ZGVLdG16NmtGVTloLVVEVW5DOWQwUDA3UkdialBsREM3YnVFVXk4cWk0aTdZZDZYUDdYalRzbHJNbnVQYzJDaW4zVDdzVS1SMTJ3eVhKNVYxX0JhOFVjazB2WlZtb3Q4aUVpSU9fYkEtTXRZSjN0QkJCczFFSGc4TEkzcUVlODhtU0RuZzZN?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Produits & usages",
-   "title": "Accès aux soins - Garder le contrôle sur ses frais de santé",
-   "source": "Que Choisir",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPendRMXJVM3luZWpsQUdENXJWS3YyUnZDVDVFR1lSSXlkRExDUHRGbkpxc0x6UUZ6Z0xRazIxdXVRdHVJdW1SVy1aUnZjYXB6bzNOSXdSXzBpQkxOS0RVOHFTeWw1Q3JEc0xvUmNhTmNiSFhMcm5HZ3dYa1ZZTGo1cUtnMzdfbWFneEVKYTRwN3lqNGZmdm5kQzFNZkotQkxEWWdleg?oc=5",
    "prio": "À suivre"
   },
   {
@@ -739,34 +875,10 @@
   },
   {
    "axe": "Réglementation",
-   "title": "Les dossiers d'assurance sociale non traités avant le 1er mars 2027 seront traités conformément à la réglementation de transition",
-   "source": "Laodong.vn",
-   "date": "2026-11-22",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV183VGgtdG40cXlpS0JJcmxyMnVqbVE4bDVIMDhiU1pEOXZRMzJpaTlnVmpfU2hpT0Utd1RfRmRHZzI4MXliX3RJNGRNXzdHbnNFR0ROLXd2WkQyTVN1UUhQcWFhUFU1ZUZYZ1VDVnQzQjI5R2Z4MkRuMjcxMjIxWHotS2VQWFFZYWdxSlF1anItTGNDbzY1WFVnTDBhYXg0NFdJUjlvNW9TTG1kUHJyNTR1LVA3cGRqMmRpRw?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Réglementation",
    "title": "Risques climatiques : le portefeuille des agents généraux souffre aussi du climat",
    "source": "L'Argus de l'assurance",
    "date": "2026-11-22",
    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWGFkeTJ6OFIxQkhxNTNxUk54YTI0WGxpS1ctUC1DZHNaMzZPN0RjSnhtMF80eVNBWTZvMm5PV1I2Z0hfcl9fWmZKR0t4Wm1PcFRYQlFiZmJwT2hWbFdPa2FvdWx2Z3N0VzRsVlVUWlVfTlNmUmpwNFVjaG1ybjY2NkJZOGNRNHJ3LWd3N25lNDIybUdvN2RwRGlFWTlBa3Y2UzdGLTRPZ3BiMXNmcldiVTItRXlYZGRqejhHcVNmVmZXUEJTNWg3MTNMVnNHOXBXckhIUmVCdzhlZjF0MmJ6VzRwRDNmcGJkbkNtLU5lVUFPUTBoaVdnckZfai1qLWlHWjdleVhkcHNfdDlIeXNtMG9fZ2dGVnB0MFMw?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "Taux immobilier : baromètre des taux actuels",
-   "source": "Pretto",
-   "date": "2026-11-22",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4ySEl5VVV6TFlMOGZycVNrMW5FUU9hLURjSHFfTjk1LTNGcTg2Y01JejJVaERwQmVNU21sQzBxdGN5ZHQ3bmZEV0d2MURhazg?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Concurrence",
-   "title": "Prévention des incendies en entreprises : les agents généraux d’assurance Axa à l’école du feu",
-   "source": "L'Argus de l'assurance",
-   "date": "2026-11-21",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOOGlJYS1WcE1oV2JJaXN1aVFyNTlqN3RuM0VPWEZKTEZsTmdreE0zT2piWlZXMGJ2TTRCNXdhRGgxRnE3aHZpenFFWHhGWHJSRkdWcTRpMDA3SHU0akFVSE0yRjh4NVZLcVNNaHp3Zk90d3pBdzhpb0N4cEV3TVZtZXczOE9WRVV6Qng4dW1KMENobTBGbEdGMlVkSGIyWGcwNlpZaHRSMmhIMVJTcE12LV8xR3BqaDVDWFlJaHBvYjdzb1NMS1k0X3VlU0Y4YTVnaWZEQnZ6TC13WEo4aHlidGFNdWFUYjJPdVVnSXdNQ0ZRRnlselRjVTQtdVhKeW1uVFlJN1ZQclhxeUdrVjBTNnlQcVVTNl9GYWNxRWlhazlXZkE4OFEw?oc=5",
    "prio": "À suivre"
   },
   {
@@ -778,11 +890,27 @@
    "prio": "À lire"
   },
   {
-   "axe": "Concurrence",
-   "title": "Mutuelle : les salariés de la Mgéfi s’inquiètent pour leur avenir après le rapprochement annoncé avec Ociane Matmut, la CFDT dénonce une absorption",
-   "source": "L'Argus de l'assurance",
+   "axe": "Digital & IA",
+   "title": "BIC verse 40 millions de VND d'indemnités d'assurance à deux clients victimes de fraude en ligne.",
+   "source": "Vietnam.vn",
    "date": "2026-11-20",
-   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQQTM4R0s4SVcxU0UwNC1yZVVHbWhkdWUzOVAybWZMUE5Yd1hyOWFjS19Xb3RpcEV0ZGozdGFOMFNpeWpFalFyOFAwWUFwQ0l4a0dRX0lFYm1ER2JvU1ZKVFFjRDhESXJkb0ZOLW9IRkFwX3NyTHlOQWlScVhfcjN3WHdjdVhXWHNhNUNpaUtIWGI0M1RHZGlmS21KWWJRbzVLX0hzRmhmRHp0U0thVFVKazZISG51aVVROXllTUs1NFFfLUw5WkVNM2djT1k3eTgzSUxGMWNVQVVmZVV3VWswck0zNlZ3dXFBWmdoc0EtbV8wVTFudFBiNzF4bk9kRk43SnJLdG02NFA1Uk9yV2VpeEpSRFFEOV9MdmJJOFhDWEVubHNhRFVyd2lUdHZuZFpHYkN5UW9kaDlXbktDUDNSWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3BkeG1nU21fQmJLVWVacE8zSWVQWU9kVHNITjAwQkNPOEd2TnVOVTdPSjRXLVFhSzZZSUxiZjhSRTl4cGlpZkZXbFJIVENoSERGejR0aHBMSmZnSG95TTlqakx2Yzl4dE9ZbFJocFJVVDA0emQ1V3QzWm1aZ2I5YjhiaXp2UTVMZEp4OE5ra2x0VzZndzZwT0hzVWd6NVk4LUZkZ1R5Ti1tU2ZnVEtfQg?oc=5",
+   "prio": "À lire"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "Assurance intégrée à votre LOA : ce que le vendeur ne vous dit pas toujours",
+   "source": "Caradisiac",
+   "date": "2026-11-20",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHNzUXdpQ0ZOSVM4elR4NGhSQU5TWTM1R0d0TGJNN1NNOW4yb1FDYUVuVkNObWJkaXp0bUJIMExTUFR0YXJkR29GSFhpTGdVc0hYUndJVGQxTWFuZmFwQlhKSlUzNGdDVmdlQ3VydjFkTlpjeXFVYkNTZjBSUU5tN240VHZnY0RSMm0wYmlKWnRYY3BhOGtRNTEzODdkSFJYZnVBTFVRN3ZIUQ?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Digital & IA",
+   "title": "Elle incendie sa propre voiture pour tromper son assurance et elle est... relaxée",
+   "source": "Auto Plus",
+   "date": "2026-11-20",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRE0tWVhpLU5nSkZEdU1YUFRrODVoSmhoYmRNU3pHTmV0NmFweG5hMFFGLVp4MUxyWHBiNUhjTmZIbl95UEtONno2bjNmbXVSQUtBUW0zMVU3WkZOQVBsal8yRVd2SXpocjhwWUlwQ1E0TTVxR0hsT3RaVUtjN0l5aGYtMmRyZFU1eG9Sd0t6d3lYU1pDU25rUXd5UFNnWUZDV0FOa3A4LXRPUkkyOXZVcmtqY2VBMkdOTi00SFBQMXdQWjJTZVJHdnBra2pXV0E?oc=5",
    "prio": "À suivre"
   },
   {
@@ -794,6 +922,14 @@
    "prio": "À suivre"
   },
   {
+   "axe": "Digital & IA",
+   "title": "Les nouvelles attentes des assurés face aux risques émergents",
+   "source": "Daf-Mag.fr",
+   "date": "2026-11-20",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFJZbHJMcVlIRl9sRXZ6MW1GbTZ2Mmw5d0MtSC1TOEdxUVh0SlUxSkJ3OUtpSE93amZkazdOTW9GbHBqS0hMbHF5ei02WUpGYnNxbDQwQzJPOHhRQlVkMklHNEY3MHBvbk5pYWxvVWM1SklZcTQ5OEtvakUxUGdfQUhhNVd3UHJidG1idzhOS2M0RkZla2tVRlR4SQ?oc=5",
+   "prio": "À suivre"
+  },
+  {
    "axe": "Réglementation",
    "title": "S.M.A.R.T. 2026 - Dans un monde qui change, les choix d'aujourd'hui façonneront les équilibres de demain",
    "source": "France Assureurs",
@@ -802,12 +938,12 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Concurrence",
-   "title": "La Cnil inflige 5 M€ d’amende à Macif Vie",
-   "source": "L'Informaticien",
+   "axe": "Réglementation",
+   "title": "Assurance emprunteur 2026 : taux d’usure et indemnités coupées, les risques",
+   "source": "Mon Immeuble",
    "date": "2026-11-20",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTNjM2VPcWFFNVIzQ09EZk52ZzFybF8xMWFRaVdKcHlHbG41TkE0UEdUaEhpM0IyS3A1Yzk2TUwxa3pHZm1qMlBZUmNGMHVZVU9KMmxwLUpQRjJ1dVQ4UFJ6VGJ1Z3JWOWsxaHNVamNGX2t6emQ2LWRDN2M0aEVvQ1NVYXFrdmRQc1NLczBnTERvdXlXN1J1dTFhVWZhck8tUjRRMjNLYkduWndBUGFJd0RnWWlyUmNWOXVDNU5Cc1Rza0xB?oc=5",
-   "prio": "À lire"
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOajBfU0FoNzFqZmlRcndzc2VRc2VUQUVJMHZ5OElvV0g1NWxiUG5xQmJVYzJ3UzlUallaVTBpYzBHdk9yX2w0R1kyQkhheEZ4WUhjQ2dYQnd0SjYybEpmb1dQVDMzdmIxUjhJOE9uamZYbjlKVTA5MDNoMElWQnZxTW1Ddm9LXzVWR0MtVDk4SE1MMWx5WDJQT3d4cXBvaHlraDF6SWNGS0g?oc=5",
+   "prio": "À suivre"
   },
   {
    "axe": "Marché & économie",
@@ -818,12 +954,20 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Concurrence",
-   "title": "Macif Vie : 5 M€ d’amende CNIL, quels risques ?",
-   "source": "https://www.leconseilpatrimoine.fr/",
+   "axe": "Marché & économie",
+   "title": "Influenza aviaire : la situation en France",
+   "source": "agriculture.gouv.fr",
    "date": "2026-11-20",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkgxU0ttalZaeUJBbng1N1pYX1NCcXVLVmZEZERVTWZmM0pNUC0zQ3gtTjV6djF3NmdKcG44azZ4NWlHOGdmaTllVjhWVWFMQnJwMy1ZajJXYTZ1TkRTRlUtVk1ZM19MZXZIbGNtMGRqRjVMV0s5QUVzS1ZSV21aaEMwcEZJUmxNaFdWbjFiQUhlMGpMaFpZVnJDVFFZdjZzM0IwQmNxdlRIMEViaUVRTXNyZ05MOVFGRGw1MXNlQnlpU2dYMTBLWXln?oc=5",
-   "prio": "À lire"
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCRWkxZGNicnlNSzVWME9pZnZKaVNwX2lvWXVPelEtNDJHR3dZRXFrVF9ydnB4aklRRkhkUU1ZT0wwZmg3MlBCM0g2YjkzSEtYTEJIUTVzLW1nMmZVdlM1UzVjRlhJWFJyZ2txX28wMFRFVENPUGpv?oc=5",
+   "prio": "À suivre"
+  },
+  {
+   "axe": "Marché & économie",
+   "title": "Palmarès 2026 des contrats d’Assurance-Vie de plus de 8 ans",
+   "source": "FranceTransactions.com",
+   "date": "2026-11-20",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2ZSN0ZYcUZpU3BIRnpMLW1lem9xd3JaTmRja0J1bnEtdGxjTTVaR3pZYjhIY1ZvcXNGX1JMNVp0VTJvTmNweDVrejF6TWdFTVIyT29Jak5KRW13Z1h6Y1VWejdrOXU4ZTlzRU41X3pJSGs5b1JVb3l4WDV3VUQwTTVR?oc=5",
+   "prio": "À suivre"
   },
   {
    "axe": "Réglementation",
@@ -834,30 +978,6 @@
    "prio": "À lire"
   },
   {
-   "axe": "Concurrence",
-   "title": "Matmut téléphone, contact et service client : quel numéro pour un sinistre, l'assistance, une réclamation ou une résiliation, et ce que vaut un appel (2026)",
-   "source": "Hassan KOHEN",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb1N5c2dRVGdsSnNZUGtiTkNmVGtNNWNwUDBlQzNqekgtTF9xRjk5aGVLMXItM2pILXQ3VzRpNnNOUDg3NlpvQ0cySmVOa3dXV1BlZi1sQzNIVkFtTXZ0SlM4YWdTZlBTLUhXZkFKMnFNTXFiTVlmaXp5eEZRZXBHWTdiWi1jM2xxUXBUYUQ1WWxnY0hzdkZuTHVfM2ZTMnY4cExJWE1SeHZ1WjNEdklTRVphNVdTWjI0VW5vWUFaZElLNDdUZG1B?oc=5",
-   "prio": "À lire"
-  },
-  {
-   "axe": "Concurrence",
-   "title": "Allianz France élargit son offre d’assurance vie",
-   "source": "RiskAssur",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12a1ZZclRCdVdiT3oyQktKODNZUHl2bFJNM1EtSG9YMkVPNkpKd25SUnlwZlVzTkpEZTBSS1BldmkwNzRPaGZOMkZKX3BpUGNXTnFZTUh4RzdwdUxxVDFnT1JhSnVFZW5KZUlJWXo3YjBSTG5MLVE?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Concurrence",
-   "title": "La CNIL inflige 5 millions d'euros à la Macif pour ses mots de passe stockés en clair",
-   "source": "Mac4Ever",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHN3by1vZU1QUWhUYndpakRfYlZyYXZEQTBGal9CVVNYVkVueEpqN0V3U2lVMzJRSGNZREk5bDBNR2p6M0lzaEJuelI2cDZtWHgyV1lOZ1l2Q21LRVF4QmVEekctUTh1VzRWWm5ZdTAyQWhEeVFQcGRoQUJTS2p5YldIQjR3T2hrOU5DQlNVQ3FBbXk3THlUY01MU1VHVW9iSzIyVGo0bzR2dlB1LVdSYXFsN2tkclQxRnBHR2VSTG9VNEU?oc=5",
-   "prio": "À suivre"
-  },
-  {
    "axe": "Réglementation",
    "title": "Violences du 17 octobre : les dommages évalués à 207 millions d'euros, selon France Assureurs",
    "source": "MoneyVox",
@@ -866,19 +986,11 @@
    "prio": "À suivre"
   },
   {
-   "axe": "Concurrence",
-   "title": "Allianz Commercial met en garde contre les nouveaux risques cachés de l'IA",
-   "source": "La Tribune de l'Assurance",
+   "axe": "Réglementation",
+   "title": "Certains évoquaient 1,2 milliard de dégâts: finalement, France Assureurs estime les dommages des violences urbaines des 17 et 18 octobre à 207 millions d'euros",
+   "source": "BFM",
    "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbzVENm5zOWNZQmgyVzg0QWpaS2locEliRjM0RTY3bjNRVTJ1ZlZfaUJsRnhxNDh5ci1FU3ZYNEtxYUdLSGt3VFlsendmeVVCMldUVE9vblh6dmg0R1lxTWJmbHlzbFlieFVVdThZTnJoNF80eDhYd0pZbk91dnhqZjI5UUJxeWVvZ0dicGRsV1FxQjcwUVJzdzZJR1NPQkNGTFFTcFZXRXVzbXlvWkJ5N3BEaGNxbTgtVnFVNTlkbTQ4VmVWNUNnSnYxN3ktUnk3eFFjTnBZSWhJZjA?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "Assurance : le coût des émeutes du 17 octobre dépasse déjà les 200 millions d'euros",
-   "source": "Les Echos",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcUxVNTRMX2ZsM2ZLdFJBMWlvUlhhNFpDTncwQXU0Wk1pQUUteUpyS0w5OHdnUUQ0YkdGWl9GaFZiYjRlb1h1MzFJUTZqUl9RWU9aRFBKRzA5d08tYk8zNml4NmhvdnYyZmJWVE1ud1NqZDZzZF81bUtEOEUzeGtvd2hIS21vTTZYYVYyX1JXSEJTQjJlQTFPUV9ldG5mTWhlQkVFcHZ3QnRpa1ZkVTJxZmpuTjZwQVJXcnVzempmb09zclVFOEpSUXdJNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQRU4wVEN0V1BtNXlYLW1GVnp3SDlNRnh3eDFpSWl4VmR2SUJMaWUxaEtOUkpSb3Y4a0Zrc0ZnRVBFM0d0M3dyTV9Oa3lfU0J3MEJzQUdWZGhiTjFLR0JqckhEY1g0YlhoTUwweEdpVU15RmdUc1ItNm54M0pMMnV3Q3NoTWtFd0hCeTJ4bnRiaVRGUWY0YUNweU9IUVVNdW9YTFlvUGxxQlBtQ081THJuNGcxTWVPVUd5UlhxR0xicjZLSWNaYlg2VlhIM1AycGNqT1lxamx1cnZFbjBpN2FuUVozd1JObU1xNE9nZnNCUnZmLU0yVVZzU1d3TWVWZXVFM2ltTF9zUXMtSDhQOFlmSmZ5Y3phVTFlaUUtRlRPYnE3TnpzTFZtOUw1Vk5ZQUlqd3hZb3FR?oc=5",
    "prio": "À suivre"
   },
   {
@@ -887,110 +999,6 @@
    "source": "News Assurances Pro",
    "date": "2026-11-19",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlhVMS14OVB2aWVoQ0JlRzM3OERDYlFDcDNpR1RnTGc4OUo2WllCVmlTS3pGMHVIMFh0SnhWWlBvQzZQcVdfZ0xfYjdrVnJhSk1LSHNxY25ZWmZaTl9jZTNyM25lenFET1ZSU0E2Z1dYYmpRVGZudVptdHBYcWtfNS1obTRKWi1TM3gwVFVFeF9jek93cVhYOC1rVTgxU3JCQ29lMXlaczVjUQ?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "Zurich France : Astrid Pirson nommée Head of mid-market & delegated authority",
-   "source": "News Assurances Pro",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2JIaWxQaW1scjgzZ1MzVVhmSmV0bGRKbnJ0MWR0anl1NWJmZUdXNGw0ZlAyR2hGWGJlRzAtLU5Tc0pDRE43N2NJcmY4Z2hJVkdRU05FLUZYX2xxYlZfY1p6UXB5VVpBa183T1FuU0hOT19nQ2NjYnRZSlBGMVBMVFJJQ0xUMUNocHh6NkJoVjRfV1lCV2dhRFpxY1AxRUJ2YVhZLTgyYUpkdG1YMHpvVkN1YzJvbWNtR0xz?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Concurrence",
-   "title": "Macif téléphone, contact et service client : quel numéro pour un sinistre, l'assistance, une résiliation ou une réclamation, et quelle preuve garder (2026)",
-   "source": "Hassan KOHEN",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcW5aNHg4S3otY21qZXFPTGVYUGl0R296NHJIdTAzUG5XUklPQmdPMU1XcXJFVHhpNTJnXzNNWk1WRGlneEFRZjE1VzBlbDlveWVIem1aYzZsM3prX3hySnl6SHMtd191MkphNnVTSUIzNFRRQjBQUVpMOEFpRkFIUDVkS2NCVk1ST1hJVHBneG9rZUhnaFkxdC0wNGVsWWpBUmZHRjhhSjQzeGJLQldZTXAyRl9xTUE?oc=5",
-   "prio": "À lire"
-  },
-  {
-   "axe": "Concurrence",
-   "title": "Intelligence artificielle et assurance, Allianz Commercial alerte sur une nouvelle génération de risques et de sinistres",
-   "source": "RiskAssur",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wOHFkNlV0ZTN4N0tYNTA5elM4b1hhZ3pUcXMwRG5KTzU1ODRyTjVwcEhpbFN3a3ZfdUprTUVCN3A2cHhhVTd5NC1TLTlHVHVkLUhudU0tQnl3aldqbXdzamM4QmFWZXd2dDBRZl9ZZTQ0emVENGc?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "Résultats élections municipales 2026 Saint-Jacques-de-la-Lande [35136] : en direct score des listes, taux abstention",
-   "source": "Ouest-France",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmRyT0ZJRl9GRXNSYU9zdHljS2NWYTl4dE9peThHaEh5TDFnZEZ4bmttVVN2SWJQNkZpVVljRHZMYmk5bU1jU2ZNQjVXUVNqUUdSNGhYTlpmQndLMjZ5U2tWZ0lnUzh2aUlaamlBSS1zcnFYYUpWTVN2MTdZYU1nME5VV2wwZTF5WmM1R3NxMXZVWFZXQ3ZvLWVTc1U?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "Résultats élections municipales 2026 Cholet [49300] : en direct score des listes, taux abstention",
-   "source": "Ouest-France",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaGp2ckloa3hGaE5NQVo1OUw3Y2FfRm5MaG9KLUR5NG5tcWNrRi1JLUFjaEpYcG5MZE1laWxmb2N4b0d6Mlc5R19fRzBaeE9BblN4WFNRNHlrSlFhTTdEcDdNdVh4WVpIdHRVYXFPOGtTS21Pd0F2YUFaVzRBcTVJLWRB?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Concurrence",
-   "title": "La Matmut conserve sa note A2 chez Moody’s avec une perspective stable",
-   "source": "Le Journal des Entreprises",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObUNHRU04RFFuQlRZUmNybHhLSHJIMEFkVHM0UmNiWHVQRFlhNWZHZVF0dFVZSTRINTUzTWVkTUtIUHpTUWJ6R2N5TzU4ZmgwelVXMGtLSVdfeURXaXVCZlFxUzBjZXpRa2Mxc1A2S0pVcHB0V1JDcDdzV28xaEpEU1l6SjBONFpwb1BJdzh1Y1VKS0lIQjlkbEx3SzhNYi1LckNpU0tQUzdWV21ka3lRVzlIQWdrZDFINHdLUDVEZ3NiQUU?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Concurrence",
-   "title": "Vous avez une assurance-vie à la Macif ? Votre mot de passe était stocké en clair, 5 millions d’euros d’amende",
-   "source": "Capital.fr",
-   "date": "2026-11-18",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcndPd1JFUml3SHZJMXFIVFRjX3gzOTJIMG1rUkpnVWxWLWRya212WUszZXg3Zk9oNzktWmNNWUF1Zjk1NHIzSjQzWmF4TnE4UGg3ZlBhdklsalEtZmFNbktBMzdnUFdoTllpMk9PT2JldzRvN0kxeV96MThiQUZVbkVpWk5pWjg0MVpmZVRyRjZlc0hGS1FIV2p3Rm8zRFFZbVBCYzJyYlVMZWFYS1oxakV3eWUyRkZTVXJDLV9aM2V2clVVSVBaVU1RbTlXWFY1WHc5c1Q3MkpKdV9Ud2hlS3Jjcw?oc=5",
-   "prio": "À lire"
-  },
-  {
-   "axe": "Concurrence",
-   "title": "Macif Vie sanctionnée de 5 millions d’euros pour la protection insuffisante des données clients",
-   "source": "Zoom Invest",
-   "date": "2026-11-18",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDdqRnU3U3Bod212U2hsSF9ReTMzcEJEN0xvakZleE1mRGc2czVvR0Y0YlBZeTBEQU4tSVdCRHFuLXVRV0tUc19Rb3hlVXF4enR4dmpRdGM5eVlQRnRhOFVNRWsySGFBT1l1di1sVUUtQ0VNQUNvVzRhVVI3RllQOXpIZnlnanZISENiVDcxQXA3Y292azBleTg2UDJIOHJla2VFX29pVUNzQU41RTNSdjhxd3h0cWlxc2hJUFhHeE56Q2d4TWZlcDY1bDFjeXVackd1eg?oc=5",
-   "prio": "À lire"
-  },
-  {
-   "axe": "Concurrence",
-   "title": "Macif Vie, la filiale d’assurance-vie de la Macif, condamnée à 5 millions d’euros d’amende par la C...",
-   "source": "Jean-Marc Morandini",
-   "date": "2026-11-18",
-   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNcWpnczJVRUZjZnIwNWhfalBBcHNlTG83Z3RKZ0RBcVA3RnJTZGptdVdYRnZHWlhuOXZod3ZOeGxCcTNYYTJVZXF5QVpxa3piVnI0YmhJajByeURTM09uNWhVeldXcFdsWFRfNEZDYXNianFrTkhvb3B3bk9NcHRycGFMRmhkakZTdmY3OGNhTk1qanpaQ3M5WTBXb3g2R2lTVmN3dmdTN0k0RTFFQkpia1BXclhfQUNQWUtNM1NzZXhhXzhtNldHcDFBaV9DUGMzb19FSHkyRDFPWVBjbGI0REpxbnV5Q05jaUhLdEVrNzhwSE1Ba2V2R2Z4cElCelhFem9oSnkyY1Bhck9XVUpsdlBCeV9YWm1ZcHByaW91dC1XUmNtMzd3X3BmNHJqR2plTkpLRU11ZTRaOUs0b1dnU9IBxgJBVV95cUxNWlQ3U3NjbURjSGlvblNDZGpKYlB5VW9zNjk2ZWVtazA1ZXhhakhhejlBcTNlM00yVjdQeHR1Nm52RzkyR3BZbXBWejd5bGlLMWJkZkFBcEQ5Qjc3czNKZkxoZHNyQzhQSlRlZ1pfMzI2UlVmVXVsR2xINUVMZDZza1VLNXZkeF9ydUs3c3JzOGVXUWVQbmkyNDRkeG56YXVucHB0MkJQX0E1amd4b3hnSTdwc3JWS0JPQTJGTUI0aE9JMVloQmdjdmRldTQtcmV1WUJZeWV0WFA2ajYtWlRFYUYyU0pFaVdDWDJ6U21DS3BsVHF4UFllR2ZGZU8tYWxNZ3AyRGhoX1A3TlMwQkxiOEZzSkdCdkxfNzJveF9ZRkdPREdzR0NMWlZ3Q01wM2hQcFdXZHllOHptMVU4blZoT2RIWVNPUQ?oc=5",
-   "prio": "À lire"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "70 000 Tesla roulent sans les mains en Europe, et le système s'éteint tout seul en entrant en France",
-   "source": "JeChange",
-   "date": "2026-11-18",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGVLbzZfTE1Ib1Y1RzRPenFYM1MyR1RxS2h6YmJIMk95STRfSWhXT0F1UmJfV2hia0t4THlOQ0RKUzNiQ2pRZnc1X3NwOUlSa182QWliZ3JqSmNIbVFjVVNLMGlGVFJCU1paWDlFcVVzbWI2bnRQa0hSdGRMcFR5Yi1BdjZBWmJHTmtyY1lMNTUySVRubkNONVdKZTIybUR1YjBmTlhLSFExNXl4Q2RGbA?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "Assurance-chômage : les bons résultats du méconnu dispositif de « démission-reconversion",
-   "source": "Les Echos",
-   "date": "2026-11-18",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG9RcmtTN2Nkajk1d3M2Zzg5anVBbmREdWNEaUJkdG5PM0dKV1RGb29KRHBMWW5DN0pETmV0dFlSRXdhLVRBMWVhNGJzc0ZjLWdGeTNxWjZOaFFJNWhtdnk0RGg3bEdoYU5lZnhmMTYtZkNENHlkNEJBT0JweGhLenR0Z1F6UE5MVXFtM2dxZlhpUjdoZ0xHanJCcXJFZTRlOGRqWjNGZUY4Q1VaNjJrTjBfNnE4U2MwZk01RzhfNm5TZzc2NWJGaHVPTkozT2ZQdHQ1TDZn?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "Rappel BMW pour risque d'incendie : les 11 alertes publiées en France depuis 1 an et comment vérifier sa voiture",
-   "source": "JeChange",
-   "date": "2026-11-18",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDFsUGxaclJoNE5ZaHdZY0drX294ekJNakxxODVrM0dnTENOWEZ5R0RERjBUb25xaUZMZFc0Y1Z6d2FDNEd3UE5MeG85dk9Hako4d0JZT1dCc01DY3NpRC02SG1EMmE3eDFXWXdtSTEyZU9SNXp5RUNweFJmS2JJN3BBLUdQRmRkR3VHYUJLNVZXcVF1N0k0THNCMHFKY2phZ1QwMDRuc0JXdlF1VTQ4?oc=5",
-   "prio": "À suivre"
-  },
-  {
-   "axe": "Marché & économie",
-   "title": "Finances publiques : la BCE compte sur les marchés pour recadrer la France",
-   "source": "Le Revenu",
-   "date": "2026-11-18",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnBaQWdMRWpYQjB2NmRZbUVILXp2emo2aWtQR3k5aEFmbGRTR1FuWTRkUTEtNEMxM1VYdzIwc0xxM1dXQU15LWhKdG9ONWM3elVrUjJkdEpYZzBYX1E2RExyN2RmLWRwU3M4OWZheUdPOTB1VVdmWWxRZUN5YV9wb0FZV2FvUTRSc1g1dHpmTUFYaWcxaWt5ZVBfSHNQZGlBekZ2bFRiZnk0bUVDaHhwdUh0Mk4?oc=5",
    "prio": "À suivre"
   }
  ]
